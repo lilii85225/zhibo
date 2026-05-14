@@ -263,6 +263,14 @@ https://live.264788.xyz/channel/cctv17?streamid=cf99265df4dc15e2663266667c46ddf7
 https://live.264788.xyz/channel/cctv17?streamid=f8518c29f7faf4962aefc15ee3420fb0&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="央视频道",CCTV17
 https://live.264788.xyz/channel/cctv17?streamid=12e368efbd799e724c61530988786b16&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="央视频道",CCTV4K
+http://198.204.240.250:82/live/cctv4k.m3u8?jsbt=1760148172&jsbk=8ce47519e62b009dfa80f8fbfb2dd932
+#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="央视频道",CCTV4K
+http://198.204.240.250:82/live/cctv4k.m3u8?jsbt=1760495957&jsbk=138a7cd8fb02f369c744cf0ceb413e85
+#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="央视频道",CCTV4K
+http://107.150.60.122/live/cctv4k.m3u8
+#EXTINF:-1 tvg-name="CCTV8K" tvg-logo="https://live.fanmingming.com/tv/CCTV8K.png" group-title="央视频道",CCTV8K
+http://107.150.60.122/live/cctv8k.m3u8
 #EXTINF:-1 tvg-name="CGTN纪录" tvg-logo="https://live.fanmingming.com/tv/CGTN纪录.png" group-title="央视频道",CGTN纪录
 https://live.264788.xyz/channel/cgtndocumentary?streamid=ec5fb324cab2d33b91ca40cdb80755ec&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 #EXTINF:-1 tvg-name="CGTN纪录" tvg-logo="https://live.fanmingming.com/tv/CGTN纪录.png" group-title="央视频道",CGTN纪录
@@ -917,8 +925,9 @@ http://171.83.103.119:9999/udp/239.69.1.249:11136
 http://8kdown.brtvcloud.com/8klive/8kliveok.m3u8?txSecret=a9cfb6acb08a9fe154a8ba6d0226cfef&txTime=71697CD5
 #EXTINF:-1 tvg-name="北京纪实8K" tvg-logo="https://live.fanmingming.com/tv/北京纪实8K.png" group-title="4K节目",北京纪实8K
 http://111.31.106.140/downflv.brtvcloud.com/8klive/8kliveok.m3u8
-
-#EXTINF:-1 tvg-name="翡翠台 4K" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="4K节目",翡翠台 4K
+#EXTINF:-1 tvg-name="翡翠台 4K" tvg-logo="https://live.fanmingming.com/tv/翡翠台 4K.png" group-title="4K节目",翡翠台 4K
+https://o11.163189.xyz/stream/tvb/fct4k/
+#EXTINF:-1 tvg-name="翡翠台 4K" tvg-logo="https://live.fanmingming.com/tv/翡翠台 4K.png" group-title="4K节目",翡翠台 4K
 https://o11.163189.xyz/stream/tvb/fct4k/
 #EXTINF:-1 tvg-name="河北4K" tvg-logo="https://live.fanmingming.com/tv/河北4K.png" group-title="4K节目",河北4K
 https://event.pull.hebtv.com:443/live/live101.m3u8
@@ -1299,6 +1308,227 @@ https://iptv.707626.xyz/ch/83e28d1966f4888308e6e97b804caf1e/master.m3u8
 https://iptv.707626.xyz/ch/a859f84951d60ea32d52e414fe95bf4e/master.m3u8
 #EXTINF:-1 tvg-name="NESN 4K" tvg-logo="https://live.fanmingming.com/tv/NESN 4K.png" group-title="4K节目",NESN 4K
 https://iptv.707626.xyz/ch/4213d7c43e94f427ba46fe8d513eeb87/master.m3u8
+#EXTINF:-1 tvg-name="鳳凰衛視資訊台" tvg-logo="https://live.fanmingming.com/tv/鳳凰衛視資訊台.png" group-title="港台节目",鳳凰衛視資訊台
+http://43.152.224.209/qctv.fengshows.cn/live/0701pin72.flv
+#EXTINF:-1 tvg-name="鳳凰衛視中文台" tvg-logo="https://live.fanmingming.com/tv/鳳凰衛視中文台.png" group-title="港台节目",鳳凰衛視中文台
+http://43.152.224.209/qctv.fengshows.cn/live/0701pcc72.flv
+#EXTINF:-1 tvg-name="鳳凰衛視香港台" tvg-logo="https://live.fanmingming.com/tv/鳳凰衛視香港台.png" group-title="港台节目",鳳凰衛視香港台
+http://43.152.224.209/qctv.fengshows.cn/live/0701phk72.flv
+#EXTINF:-1 tvg-name="鳳凰衛視資訊台" tvg-logo="https://live.fanmingming.com/tv/鳳凰衛視資訊台.png" group-title="港台节目",鳳凰衛視資訊台
+https://iptv.852851.xyz/ch/760ba15d1f66242bafcc850c92f3f60e/master.m3u8
+#EXTINF:-1 tvg-name="鳳凰衛視中文台" tvg-logo="https://live.fanmingming.com/tv/鳳凰衛視中文台.png" group-title="港台节目",鳳凰衛視中文台
+https://iptv.852851.xyz/ch/b10f1a92a9e4876471425f3f287304fa/master.m3u8
+#EXTINF:-1 tvg-name="鳳凰衛視香港台" tvg-logo="https://live.fanmingming.com/tv/鳳凰衛視香港台.png" group-title="港台节目",鳳凰衛視香港台
+https://iptv.852851.xyz/ch/1183bed3a5b7e98e94e1ca51f890a1bb/master.m3u8
+#EXTINF:-1 tvg-name="鳳凰衛視資訊台" tvg-logo="https://live.fanmingming.com/tv/鳳凰衛視資訊台.png" group-title="港台节目",鳳凰衛視資訊台
+http://122.100.242.52:12179/stream/channelid/243171039?profile=pass
+#EXTINF:-1 tvg-name="鳳凰衛視中文台" tvg-logo="https://live.fanmingming.com/tv/鳳凰衛視中文台.png" group-title="港台节目",鳳凰衛視中文台
+http://122.100.242.52:12179/stream/channelid/1801150098?profile=pass
+#EXTINF:-1 tvg-name="鳳凰衛視香港台" tvg-logo="https://live.fanmingming.com/tv/鳳凰衛視香港台.png" group-title="港台节目",鳳凰衛視香港台
+http://122.100.242.52:12179/stream/channelid/1781676223?profile=pass
+#EXTINF:-1 tvg-name="TVB无线新闻" tvg-logo="https://live.fanmingming.com/tv/TVB无线新闻.png" group-title="港台节目",TVB无线新闻
+http://122.100.242.52:12179/stream/channelid/1803382046?profile=pass
+#EXTINF:-1 tvg-name="TVB无线新闻" tvg-logo="https://live.fanmingming.com/tv/TVB无线新闻.png" group-title="港台节目",TVB无线新闻
+http://67.220.71.199:2347/livehttpplay?channel_id=20123
+#EXTINF:-1 tvg-name="TVB无线新闻" tvg-logo="https://live.fanmingming.com/tv/TVB无线新闻.png" group-title="港台节目",TVB无线新闻
+http://67.220.71.199:2347/livehttpplay?channel_id=30024
+#EXTINF:-1 tvg-name="TVB无线新闻" tvg-logo="https://live.fanmingming.com/tv/TVB无线新闻.png" group-title="港台节目",TVB无线新闻
+https://iptv.852851.xyz/ch/6be62e159f4a470cce4593fc6a780cd5/master.m3u8
+#EXTINF:-1 tvg-name="TVB明珠" tvg-logo="https://live.fanmingming.com/tv/TVB明珠.png" group-title="港台节目",TVB明珠
+http://122.100.242.52:12179/stream/channelid/2051586642?profile=pass
+#EXTINF:-1 tvg-name="TVB明珠" tvg-logo="https://live.fanmingming.com/tv/TVB明珠.png" group-title="港台节目",TVB明珠
+http://67.220.71.199:2347/livehttpplay?channel_id=20125
+#EXTINF:-1 tvg-name="TVB明珠" tvg-logo="https://live.fanmingming.com/tv/TVB明珠.png" group-title="港台节目",TVB明珠
+http://67.220.71.199:2347/livehttpplay?channel_id=30026
+#EXTINF:-1 tvg-name="TVB明珠" tvg-logo="https://live.fanmingming.com/tv/TVB明珠.png" group-title="港台节目",TVB明珠
+https://o11.163189.xyz/stream/tvb/mzt/
+#EXTINF:-1 tvg-name="HOY76" tvg-logo="https://live.fanmingming.com/tv/HOY76.png" group-title="港台节目",HOY76
+https://iptv.852851.xyz/ch/6d72308eed709c8c883fe93daebddd95/master.m3u8
+#EXTINF:-1 tvg-name="HOY77" tvg-logo="https://live.fanmingming.com/tv/HOY77.png" group-title="港台节目",HOY77
+http://67.220.71.199:2347/livehttpplay?channel_id=20152
+#EXTINF:-1 tvg-name="HOY78" tvg-logo="https://live.fanmingming.com/tv/HOY78.png" group-title="港台节目",HOY78
+https://iptv.852851.xyz/ch/f87fbca6f344f30626f5913f801b13a2/master.m3u8
+#EXTINF:-1 tvg-name="Nick Jr." tvg-logo="https://live.fanmingming.com/tv/Nick Jr..png" group-title="港台节目",Nick Jr.
+https://iptv.852851.xyz/ch/7378138d7df213f3e16411960dbd2322/master.m3u8
+#EXTINF:-1 tvg-name="Nickelodeon" tvg-logo="https://live.fanmingming.com/tv/Nickelodeon.png" group-title="港台节目",Nickelodeon
+https://iptv.852851.xyz/ch/c86c29b2edfc72379273947448977aee/master.m3u8
+#EXTINF:-1 tvg-name="Now Sports 1 4K" tvg-logo="https://live.fanmingming.com/tv/Now Sports 1 4K.png" group-title="港台节目",Now Sports 1 4K
+https://iptv.852851.xyz/ch/66ad11c44eca88e44105038a9e199147/master.m3u8
+#EXTINF:-1 tvg-name="Now Sports 1" tvg-logo="https://live.fanmingming.com/tv/Now Sports 1.png" group-title="港台节目",Now Sports 1
+https://iptv.852851.xyz/ch/096e1c2a9bfda6fb968c05e6312110a9/master.m3u8
+#EXTINF:-1 tvg-name="Now Sports 641" tvg-logo="https://live.fanmingming.com/tv/Now Sports 641.png" group-title="港台节目",Now Sports 641
+https://iptv.852851.xyz/ch/da539034d579bba63d6502d4c996683b/master.m3u8
+#EXTINF:-1 tvg-name="Now爆谷台" tvg-logo="https://live.fanmingming.com/tv/Now爆谷台.png" group-title="港台节目",Now爆谷台
+https://iptv.852851.xyz/ch/68527adcbbc4f6f0c815314a24d71aaf/master.m3u8
+#EXTINF:-1 tvg-name="Now新闻台" tvg-logo="https://live.fanmingming.com/tv/Now新闻台.png" group-title="港台节目",Now新闻台
+https://iptv.852851.xyz/ch/7706bf435bcea7af3d335d8482a8a844/master.m3u8
+#EXTINF:-1 tvg-name="Now星影台" tvg-logo="https://live.fanmingming.com/tv/Now星影台.png" group-title="港台节目",Now星影台
+https://iptv.852851.xyz/ch/d435662d54b451d96cdb1bc534b4de82/master.m3u8
+#EXTINF:-1 tvg-name="Now直播台" tvg-logo="https://live.fanmingming.com/tv/Now直播台.png" group-title="港台节目",Now直播台
+https://iptv.852851.xyz/ch/0772672454f35d2525b52125814a2287/master.m3u8
+#EXTINF:-1 tvg-name="PopC" tvg-logo="https://live.fanmingming.com/tv/PopC.png" group-title="港台节目",PopC
+https://iptv.852851.xyz/ch/daeefde9dc8798b55bca340479357ebf/master.m3u8
+#EXTINF:-1 tvg-name="RTHK31" tvg-logo="https://live.fanmingming.com/tv/RTHK31.png" group-title="港台节目",RTHK31
+http://67.220.71.199:2347/livehttpplay?channel_id=20203
+#EXTINF:-1 tvg-name="RTHK31" tvg-logo="https://live.fanmingming.com/tv/RTHK31.png" group-title="港台节目",RTHK31
+http://67.220.71.199:2347/livehttpplay?channel_id=30066
+#EXTINF:-1 tvg-name="RTHK32" tvg-logo="https://live.fanmingming.com/tv/RTHK32.png" group-title="港台节目",RTHK32
+http://67.220.71.199:2347/livehttpplay?channel_id=30028
+#EXTINF:-1 tvg-name="RTHK32" tvg-logo="https://live.fanmingming.com/tv/RTHK32.png" group-title="港台节目",RTHK32
+http://67.220.71.199:2347/livehttpplay?channel_id=30067
+#EXTINF:-1 tvg-name="RTHK33" tvg-logo="https://live.fanmingming.com/tv/RTHK33.png" group-title="港台节目",RTHK33
+https://rt33-live.akamaized.net/hls/live/2101641/RT33/stream04/streamPlaylist.m3u8
+#EXTINF:-1 tvg-name="RTHK34" tvg-logo="https://live.fanmingming.com/tv/RTHK34.png" group-title="港台节目",RTHK34
+https://rt34-live.akamaized.net/hls/live/2101642/RT34/stream04/streamPlaylist.m3u8
+#EXTINF:-1 tvg-name="RTHK35" tvg-logo="https://live.fanmingming.com/tv/RTHK35.png" group-title="港台节目",RTHK35
+https://rt35-live.akamaized.net/hls/live/2101643/RT35/stream04/streamPlaylist.m3u8
+#EXTINF:-1 tvg-name="Thrill" tvg-logo="https://live.fanmingming.com/tv/Thrill.png" group-title="港台节目",Thrill
+https://iptv.852851.xyz/ch/e37675b4b09b0cb6f5520ecef524d0fd/master.m3u8
+#EXTINF:-1 tvg-name="TVB PLUS" tvg-logo="https://live.fanmingming.com/tv/TVB PLUS.png" group-title="港台节目",TVB PLUS
+http://122.100.242.52:12179/stream/channelid/2134513294?profile=pass
+#EXTINF:-1 tvg-name="TVB PLUS" tvg-logo="https://live.fanmingming.com/tv/TVB PLUS.png" group-title="港台节目",TVB PLUS
+http://67.220.71.199:2347/livehttpplay?channel_id=30023
+#EXTINF:-1 tvg-name="TVB PLUS" tvg-logo="https://live.fanmingming.com/tv/TVB PLUS.png" group-title="港台节目",TVB PLUS
+https://iptv.852851.xyz/ch/c5b298dd4959390d55e5028330511be1/master.m3u8
+#EXTINF:-1 tvg-name="TVB PLUS" tvg-logo="https://live.fanmingming.com/tv/TVB PLUS.png" group-title="港台节目",TVB PLUS
+https://o11.163189.xyz/stream/tvb/tvbp/
+
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="港台节目",翡翠台
+http://122.100.242.52:12179/stream/channelid/614956956?profile=pass
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="港台节目",翡翠台
+http://67.220.71.199:2347/livehttpplay?channel_id=30025
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="港台节目",翡翠台
+https://iptv.852851.xyz/ch/dcd9af2a8c211c18caf57e82f18e78a9/master.m3u8
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="港台节目",翡翠台
+https://o11.163189.xyz/stream/tvb/fct/
+#EXTINF:-1 tvg-name="TVB功夫" tvg-logo="https://live.fanmingming.com/tv/TVB功夫.png" group-title="港台节目",TVB功夫
+https://iptv.852851.xyz/ch/30116d4d4a2bffae6048fcf2b8df944a/master.m3u8
+#EXTINF:-1 tvg-name="TVB华丽翡翠(新加坡)" tvg-logo="https://live.fanmingming.com/tv/TVB华丽翡翠(新加坡).png" group-title="港台节目",TVB华丽翡翠(新加坡)
+https://o11.163189.xyz/stream/live/jade/
+#EXTINF:-1 tvg-name="TVB华丽翡翠" tvg-logo="https://live.fanmingming.com/tv/TVB华丽翡翠.png" group-title="港台节目",TVB华丽翡翠
+https://o11.163189.xyz/stream/live/hlt/
+#EXTINF:-1 tvg-name="TVB黄金华剧" tvg-logo="https://live.fanmingming.com/tv/TVB黄金华剧.png" group-title="港台节目",TVB黄金华剧
+https://iptv.852851.xyz/ch/bcc1153e60543383e03929cf124bc34c/master.m3u8
+#EXTINF:-1 tvg-name="TVB千禧经典" tvg-logo="https://live.fanmingming.com/tv/TVB千禧经典.png" group-title="港台节目",TVB千禧经典
+https://iptv.852851.xyz/ch/76a00255d5a3433482bd21dcab9c2493/master.m3u8
+#EXTINF:-1 tvg-name="TVB千禧经典" tvg-logo="https://live.fanmingming.com/tv/TVB千禧经典.png" group-title="港台节目",TVB千禧经典
+https://o11.163189.xyz/stream/live/tvbc/
+#EXTINF:-1 tvg-name="TVB戏曲" tvg-logo="https://live.fanmingming.com/tv/TVB戏曲.png" group-title="港台节目",TVB戏曲
+https://iptv.852851.xyz/ch/946d411d2abf0ef028a65d1658e7865b/master.m3u8
+#EXTINF:-1 tvg-name="TVB星河" tvg-logo="https://live.fanmingming.com/tv/TVB星河.png" group-title="港台节目",TVB星河
+https://iptv.852851.xyz/ch/35a8b1635c056f83fcb56fe163a0b487/master.m3u8
+#EXTINF:-1 tvg-name="TVB星河" tvg-logo="https://live.fanmingming.com/tv/TVB星河.png" group-title="港台节目",TVB星河
+https://o11.163189.xyz/stream/live/tvbxh/
+#EXTINF:-1 tvg-name="TVB亚洲剧" tvg-logo="https://live.fanmingming.com/tv/TVB亚洲剧.png" group-title="港台节目",TVB亚洲剧
+http://67.220.71.199:2347/livehttpplay?channel_id=13022
+#EXTINF:-1 tvg-name="TVB娱乐新闻" tvg-logo="https://live.fanmingming.com/tv/TVB娱乐新闻.png" group-title="港台节目",TVB娱乐新闻
+https://iptv.852851.xyz/ch/ad60506f0a7a41a03d9dbd1b59129066/master.m3u8
+#EXTINF:-1 tvg-name="VIUTV" tvg-logo="https://live.fanmingming.com/tv/VIUTV.png" group-title="港台节目",VIUTV
+http://122.100.242.52:12179/stream/channelid/655328157?profile=pass
+#EXTINF:-1 tvg-name="VIUTV" tvg-logo="https://live.fanmingming.com/tv/VIUTV.png" group-title="港台节目",VIUTV
+http://67.220.71.199:2347/livehttpplay?channel_id=20131
+#EXTINF:-1 tvg-name="VIUTV" tvg-logo="https://live.fanmingming.com/tv/VIUTV.png" group-title="港台节目",VIUTV
+http://67.220.71.199:2347/livehttpplay?channel_id=30032
+#EXTINF:-1 tvg-name="VIUTV6" tvg-logo="https://live.fanmingming.com/tv/VIUTV6.png" group-title="港台节目",VIUTV6
+http://122.100.242.52:12179/stream/channelid/750848819?profile=pass
+#EXTINF:-1 tvg-name="VIUTV6" tvg-logo="https://live.fanmingming.com/tv/VIUTV6.png" group-title="港台节目",VIUTV6
+http://67.220.71.199:2347/livehttpplay?channel_id=20132
+#EXTINF:-1 tvg-name="VIUTV6" tvg-logo="https://live.fanmingming.com/tv/VIUTV6.png" group-title="港台节目",VIUTV6
+http://67.220.71.199:2347/livehttpplay?channel_id=30033
+#EXTINF:-1 tvg-name="ZooMoo" tvg-logo="https://live.fanmingming.com/tv/ZooMoo.png" group-title="港台节目",ZooMoo
+https://iptv.852851.xyz/ch/0b411acd6886ed1598ae839a8895dd06/master.m3u8
+#EXTINF:-1 tvg-name="天映经典" tvg-logo="https://live.fanmingming.com/tv/天映经典.png" group-title="港台节目",天映经典
+https://o11.163189.xyz/stream/live/ccm/
+#EXTINF:-1 tvg-name="天映频道" tvg-logo="https://live.fanmingming.com/tv/天映频道.png" group-title="港台节目",天映频道
+https://o11.163189.xyz/stream/live/typd/
+#EXTINF:-1 tvg-name="香港面包" tvg-logo="https://live.fanmingming.com/tv/香港面包.png" group-title="港台节目",香港面包
+https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
+#EXTINF:-1 tvg-name="香港卫视" tvg-logo="https://live.fanmingming.com/tv/香港卫视.png" group-title="港台节目",香港卫视
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+#EXTINF:-1 tvg-name="环球电视" tvg-logo="https://live.fanmingming.com/tv/环球电视.png" group-title="港台节目",环球电视
+http://zb.xzxwhcb.com:9999/hls/world.m3u8
+#EXTINF:-1 tvg-name="耀才财经" tvg-logo="https://live.fanmingming.com/tv/耀才财经.png" group-title="港台节目",耀才财经
+http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
+#EXTINF:-1 tvg-name="鳳凰衛視中文台" tvg-logo="https://live.fanmingming.com/tv/鳳凰衛視中文台.png" group-title="港台节目",鳳凰衛視中文台
+http://hs.hejd.net:7088/udp/233.50.202.35:5140
+#EXTINF:-1 tvg-name="鳳凰衛視資訊台" tvg-logo="https://live.fanmingming.com/tv/鳳凰衛視資訊台.png" group-title="港台节目",鳳凰衛視資訊台
+http://hs.hejd.net:7088/udp/233.50.202.36:5140
+#EXTINF:-1 tvg-name="鳳凰衛視中文台" tvg-logo="https://live.fanmingming.com/tv/鳳凰衛視中文台.png" group-title="港台节目",鳳凰衛視中文台
+http://ipv4.hs.imyjy.cn:7088/udp/233.50.202.35:5140
+#EXTINF:-1 tvg-name="鳳凰衛視資訊台" tvg-logo="https://live.fanmingming.com/tv/鳳凰衛視資訊台.png" group-title="港台节目",鳳凰衛視資訊台
+http://ipv4.hs.imyjy.cn:7088/udp/233.50.202.36:5140
+#EXTINF:-1 tvg-name="鳳凰衛視中文台" tvg-logo="https://live.fanmingming.com/tv/鳳凰衛視中文台.png" group-title="港台节目",鳳凰衛視中文台
+http://l3.negative.video:50000/udp/233.50.202.35:5140
+#EXTINF:-1 tvg-name="鳳凰衛視資訊台" tvg-logo="https://live.fanmingming.com/tv/鳳凰衛視資訊台.png" group-title="港台节目",鳳凰衛視資訊台
+http://l3.negative.video:50000/udp/233.50.202.36:5140
+#EXTINF:-1 tvg-name="鳳凰衛視中文台" tvg-logo="https://live.fanmingming.com/tv/鳳凰衛視中文台.png" group-title="港台节目",鳳凰衛視中文台
+http://www.liangcl.top:8686/udp/233.50.202.35:5140
+#EXTINF:-1 tvg-name="鳳凰衛視資訊台" tvg-logo="https://live.fanmingming.com/tv/鳳凰衛視資訊台.png" group-title="港台节目",鳳凰衛視資訊台
+http://www.liangcl.top:8686/udp/233.50.202.36:5140
+#EXTINF:-1 tvg-name="鳳凰衛視中文台" tvg-logo="https://live.fanmingming.com/tv/鳳凰衛視中文台.png" group-title="港台节目",鳳凰衛視中文台
+http://www.lvyjay.win:4022/udp/233.50.202.35:5140
+#EXTINF:-1 tvg-name="鳳凰衛視資訊台" tvg-logo="https://live.fanmingming.com/tv/鳳凰衛視資訊台.png" group-title="港台节目",鳳凰衛視資訊台
+http://www.lvyjay.win:4022/udp/233.50.202.36:5140
+#EXTINF:-1 tvg-name="鳳凰衛視中文台" tvg-logo="https://live.fanmingming.com/tv/鳳凰衛視中文台.png" group-title="港台节目",鳳凰衛視中文台
+http://www.negative.top:50000/udp/233.50.202.35:5140
+#EXTINF:-1 tvg-name="鳳凰衛視資訊台" tvg-logo="https://live.fanmingming.com/tv/鳳凰衛視資訊台.png" group-title="港台节目",鳳凰衛視資訊台
+http://www.negative.top:50000/udp/233.50.202.36:5140
+#EXTINF:-1 tvg-name="鳳凰衛視中文台" tvg-logo="https://live.fanmingming.com/tv/鳳凰衛視中文台.png" group-title="港台节目",鳳凰衛視中文台
+http://0000505.xyz:8888/udp/239.76.246.134:1234
+#EXTINF:-1 tvg-name="鳳凰衛視資訊台" tvg-logo="https://live.fanmingming.com/tv/鳳凰衛視資訊台.png" group-title="港台节目",鳳凰衛視資訊台
+http://0000505.xyz:8888/udp/239.76.246.135:1234
+#EXTINF:-1 tvg-name="鳳凰衛視資訊台" tvg-logo="https://live.fanmingming.com/tv/鳳凰衛視資訊台.png" group-title="港台节目",鳳凰衛視資訊台
+http://0000505.xyz:8888/udp/239.76.253.134:9000
+#EXTINF:-1 tvg-name="鳳凰衛視中文台" tvg-logo="https://live.fanmingming.com/tv/鳳凰衛視中文台.png" group-title="港台节目",鳳凰衛視中文台
+http://0000505.xyz:8888/udp/239.76.253.135:9000
+#EXTINF:-1 tvg-name="鳳凰衛視中文台" tvg-logo="https://live.fanmingming.com/tv/鳳凰衛視中文台.png" group-title="港台节目",鳳凰衛視中文台
+http://phmanet.com:9999/udp/239.76.246.134:1234
+#EXTINF:-1 tvg-name="鳳凰衛視資訊台" tvg-logo="https://live.fanmingming.com/tv/鳳凰衛視資訊台.png" group-title="港台节目",鳳凰衛視資訊台
+http://phmanet.com:9999/udp/239.76.246.135:1234
+#EXTINF:-1 tvg-name="鳳凰衛視資訊台" tvg-logo="https://live.fanmingming.com/tv/鳳凰衛視資訊台.png" group-title="港台节目",鳳凰衛視資訊台
+http://phmanet.com:9999/udp/239.76.253.134:9000
+#EXTINF:-1 tvg-name="鳳凰衛視中文台" tvg-logo="https://live.fanmingming.com/tv/鳳凰衛視中文台.png" group-title="港台节目",鳳凰衛視中文台
+http://phmanet.com:9999/udp/239.76.253.135:9000
+#EXTINF:-1 tvg-name="鳳凰衛視中文台" tvg-logo="https://live.fanmingming.com/tv/鳳凰衛視中文台.png" group-title="港台节目",鳳凰衛視中文台
+http://www.zlizi.cn:4023/udp/239.76.246.134:1234
+#EXTINF:-1 tvg-name="鳳凰衛視資訊台" tvg-logo="https://live.fanmingming.com/tv/鳳凰衛視資訊台.png" group-title="港台节目",鳳凰衛視資訊台
+http://www.zlizi.cn:4023/udp/239.76.246.135:1234
+#EXTINF:-1 tvg-name="鳳凰衛視資訊台" tvg-logo="https://live.fanmingming.com/tv/鳳凰衛視資訊台.png" group-title="港台节目",鳳凰衛視資訊台
+http://www.zlizi.cn:4023/udp/239.76.253.134:9000
+#EXTINF:-1 tvg-name="鳳凰衛視中文台" tvg-logo="https://live.fanmingming.com/tv/鳳凰衛視中文台.png" group-title="港台节目",鳳凰衛視中文台
+http://www.zlizi.cn:4023/udp/239.76.253.135:9000
+#EXTINF:-1 tvg-name="鳳凰衛視資訊台" tvg-logo="https://live.fanmingming.com/tv/鳳凰衛視資訊台.png" group-title="港台节目",鳳凰衛視資訊台
+http://183.222.206.14:8096/udp/239.94.2.49:5140
+#EXTINF:-1 tvg-name="鳳凰衛視資訊台" tvg-logo="https://live.fanmingming.com/tv/鳳凰衛視資訊台.png" group-title="港台节目",鳳凰衛視資訊台
+http://183.222.206.14:8096/udp/239.94.2.50:5140
+#EXTINF:-1 tvg-name="鳳凰衛視中文台" tvg-logo="https://live.fanmingming.com/tv/鳳凰衛視中文台.png" group-title="港台节目",鳳凰衛視中文台
+http://183.222.206.14:8096/udp/239.94.2.51:5140
+#EXTINF:-1 tvg-name="鳳凰衛視中文台" tvg-logo="https://live.fanmingming.com/tv/鳳凰衛視中文台.png" group-title="港台节目",鳳凰衛視中文台
+http://183.222.206.14:8096/udp/239.94.2.52:5140
+#EXTINF:-1 tvg-name="鳳凰衛視資訊台" tvg-logo="https://live.fanmingming.com/tv/鳳凰衛視資訊台.png" group-title="港台节目",鳳凰衛視資訊台
+http://wan1.tangwudi.cc:47859/udp/239.94.2.49:5140
+#EXTINF:-1 tvg-name="鳳凰衛視資訊台" tvg-logo="https://live.fanmingming.com/tv/鳳凰衛視資訊台.png" group-title="港台节目",鳳凰衛視資訊台
+http://wan1.tangwudi.cc:47859/udp/239.94.2.50:5140
+#EXTINF:-1 tvg-name="鳳凰衛視中文台" tvg-logo="https://live.fanmingming.com/tv/鳳凰衛視中文台.png" group-title="港台节目",鳳凰衛視中文台
+http://wan1.tangwudi.cc:47859/udp/239.94.2.51:5140
+#EXTINF:-1 tvg-name="鳳凰衛視中文台" tvg-logo="https://live.fanmingming.com/tv/鳳凰衛視中文台.png" group-title="港台节目",鳳凰衛視中文台
+http://wan1.tangwudi.cc:47859/udp/239.94.2.52:5140
+#EXTINF:-1 tvg-name="鳳凰衛視資訊台" tvg-logo="https://live.fanmingming.com/tv/鳳凰衛視資訊台.png" group-title="港台节目",鳳凰衛視資訊台
+http://zqh2333.top:2222/udp/239.94.2.49:5140
+#EXTINF:-1 tvg-name="鳳凰衛視資訊台" tvg-logo="https://live.fanmingming.com/tv/鳳凰衛視資訊台.png" group-title="港台节目",鳳凰衛視資訊台
+http://zqh2333.top:2222/udp/239.94.2.50:5140
+#EXTINF:-1 tvg-name="鳳凰衛視中文台" tvg-logo="https://live.fanmingming.com/tv/鳳凰衛視中文台.png" group-title="港台节目",鳳凰衛視中文台
+http://zqh2333.top:2222/udp/239.94.2.51:5140
+#EXTINF:-1 tvg-name="鳳凰衛視中文台" tvg-logo="https://live.fanmingming.com/tv/鳳凰衛視中文台.png" group-title="港台节目",鳳凰衛視中文台
+http://zqh2333.top:2222/udp/239.94.2.52:5140
+#EXTINF:-1 tvg-name="鳳凰衛視資訊台" tvg-logo="https://live.fanmingming.com/tv/鳳凰衛視資訊台.png" group-title="港台节目",鳳凰衛視資訊台
+https://550e8400-e29b.kylintv.tv/live/pxinhd_iphone.m3u8
+#EXTINF:-1 tvg-name="鳳凰衛視中文台" tvg-logo="https://live.fanmingming.com/tv/鳳凰衛視中文台.png" group-title="港台节目",鳳凰衛視中文台
+https://550e8400-e29b.kylintv.tv/live/pxna_iphone.m3u8
+#EXTINF:-1 tvg-name="鳳凰衛視香港台" tvg-logo="https://live.fanmingming.com/tv/鳳凰衛視香港台.png" group-title="港台节目",鳳凰衛視香港台
+https://550e8400-e29b.kylintv.tv/live/pxhkus_iphone.m3u8
+#EXTINF:-1 tvg-name="凤凰美洲" tvg-logo="https://live.fanmingming.com/tv/凤凰美洲.png" group-title="港台节目",凤凰美洲
+https://550e8400-e29b.kylintv.tv/live/pxnaus_iphone.m3u8
 #EXTINF:-1 tvg-name="Now新闻台" tvg-logo="https://live.fanmingming.com/tv/Now新闻台.png" group-title="港台节目",Now新闻台
 https://iptv.707626.xyz/ch/7706bf435bcea7af3d335d8482a8a844/master.m3u8
 #EXTINF:-1 tvg-name="Now星影台" tvg-logo="https://live.fanmingming.com/tv/Now星影台.png" group-title="港台节目",Now星影台
