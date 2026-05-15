@@ -1260,134 +1260,39 @@ https://litv.tzh911.qzz.io/litv.php?id=litv-longturn14&token=https://t.me/GPT_85
 #EXTINF:-1 tvg-name="寰宇新闻台湾" tvg-logo="https://live.fanmingming.com/tv/寰宇新闻台湾.png" group-title="台湾频道",寰宇新闻台湾
 https://iptv.852851.xyz/ch/c923b10e6ed936189a40933fbd841da9/master.m3u8
 
-#EXTINF:-1 tvg-name="镜电视" tvg-logo="https://live.fanmingming.com/tv/镜电视.png" group-title="台湾频道",镜电视
-http://220.135.64.124:5050/4gtv-4gtv075/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="民视新闻" tvg-logo="https://live.fanmingming.com/tv/民视新闻.png" group-title="台湾频道",民视新闻
-http://220.135.64.124:5050/litv-ftv13/index.m3u8?proxy=true
+
 #EXTINF:-1 tvg-name="民视新闻" tvg-logo="https://live.fanmingming.com/tv/民视新闻.png" group-title="台湾频道",民视新闻
 http://bt.sc1970.xyz:9099/38.64.72.148/hls/modn/list/4012/playlist.m3u8
 #EXTINF:-1 tvg-name="民视新闻" tvg-logo="https://live.fanmingming.com/tv/民视新闻.png" group-title="台湾频道",民视新闻
 https://iptv.852851.xyz/ch/d189e089ebb1c52dc37afcaa7fb0f732/master.m3u8
-#EXTINF:-1 tvg-name="民视新闻" tvg-logo="https://live.fanmingming.com/tv/民视新闻.png" group-title="台湾频道",民视新闻
-https://litv.tzh911.qzz.io/litv.php?id=litv-ftv13&token=https://t.me/GPT_858
+
 #EXTINF:-1 tvg-name="年代新闻" tvg-logo="https://live.fanmingming.com/tv/年代新闻.png" group-title="台湾频道",年代新闻
 https://iptv.852851.xyz/ch/f92bee3f634772070bc7e3b4b6e5909b/master.m3u8
-#EXTINF:-1 tvg-name="三立新闻iNEWS" tvg-logo="https://live.fanmingming.com/tv/三立新闻iNEWS.png" group-title="台湾频道",三立新闻iNEWS
-http://220.135.64.124:5050/4gtv-live089/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="三立新闻iNEWS" tvg-logo="https://live.fanmingming.com/tv/三立新闻iNEWS.png" group-title="台湾频道",三立新闻iNEWS
-http://xclasvgas.sylu.cc:8880/?token=dbm&id=iNEWS
+
 #EXTINF:-1 tvg-name="三立新闻iNEWS" tvg-logo="https://live.fanmingming.com/tv/三立新闻iNEWS.png" group-title="台湾频道",三立新闻iNEWS
 https://iptv.852851.xyz/ch/6c0dfd2d665343f014b36b6888c1ff14/master.m3u8
-#EXTINF:-1 tvg-name="台视新闻" tvg-logo="https://live.fanmingming.com/tv/台视新闻.png" group-title="台湾频道",台视新闻
-http://bt.sc1970.xyz:9099/38.64.72.148/hls/modn/list/4013/playlist.m3u8
-#EXTINF:-1 tvg-name="中视新闻" tvg-logo="https://live.fanmingming.com/tv/中视新闻.png" group-title="台湾频道",中视新闻
-http://220.135.64.124:5050/4gtv-4gtv074/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="中视新闻" tvg-logo="https://live.fanmingming.com/tv/中视新闻.png" group-title="台湾频道",中视新闻
-http://xclasvgas.sylu.cc:8880/?token=dbm&id=4gtv-4gtv074
+
 #EXTINF:-1 tvg-name="中视新闻" tvg-logo="https://live.fanmingming.com/tv/中视新闻.png" group-title="台湾频道",中视新闻
 https://iptv.852851.xyz/ch/c87ed6b3f13ae3f15e3cb76736f6c660/master.m3u8
-#EXTINF:-1 tvg-name="中视新闻" tvg-logo="https://live.fanmingming.com/tv/中视新闻.png" group-title="台湾频道",中视新闻
-https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv074&token=https://t.me/GPT_858
-#EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://live.fanmingming.com/tv/中天新闻.png" group-title="台湾频道",中天新闻
-http://220.135.64.124:5050/4gtv-4gtv009/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://live.fanmingming.com/tv/中天新闻.png" group-title="台湾频道",中天新闻
-http://xclasvgas.sylu.cc:8880/?token=dbm&id=4gtv-4gtv009
+
+
 #EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://live.fanmingming.com/tv/中天新闻.png" group-title="台湾频道",中天新闻
 https://iptv.852851.xyz/ch/9cc92e5d8ca3b2fa16ad6c1dee5dff6e/master.m3u8
-#EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://live.fanmingming.com/tv/中天新闻.png" group-title="台湾频道",中天新闻
-https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv009&token=https://t.me/GPT_858
+
 #EXTINF:-1 tvg-name="倪珍播新闻" tvg-logo="https://live.fanmingming.com/tv/倪珍播新闻.png" group-title="台湾频道",倪珍播新闻
 http://xclasvgas.sylu.cc:8880/?token=dbm&id=nnews-zh
 #EXTINF:-1 tvg-name="第1商业" tvg-logo="https://live.fanmingming.com/tv/第1商业.png" group-title="台湾频道",第1商业
 http://xclasvgas.sylu.cc:8880/?token=dbm&id=4gtv-4gtv104
 #EXTINF:-1 tvg-name="SBN全球财经" tvg-logo="https://live.fanmingming.com/tv/SBN全球财经.png" group-title="台湾频道",SBN全球财经
 http://220.135.64.124:5050/4gtv-live060/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="中旺电视" tvg-logo="https://live.fanmingming.com/tv/中旺电视.png" group-title="台湾频道",中旺电视
-http://bt.sc1970.xyz:9099/38.64.72.148/hls/modn/list/4010/playlist.m3u8
-#EXTINF:-1 tvg-name="AMC电影" tvg-logo="https://live.fanmingming.com/tv/AMC电影.png" group-title="台湾频道",AMC电影
-http://220.135.64.124:5050/4gtv-4gtv017/index.m3u8?proxy=true
+
 #EXTINF:-1 tvg-name="AMC电影" tvg-logo="https://live.fanmingming.com/tv/AMC电影.png" group-title="台湾频道",AMC电影
 https://iptv.852851.xyz/ch/6788c3866786a8fffece835298a4a93c/master.m3u8
-#EXTINF:-1 tvg-name="CinemaWorld" tvg-logo="https://live.fanmingming.com/tv/CinemaWorld.png" group-title="台湾频道",CinemaWorld
-http://220.135.64.124:5050/4gtv-live069/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="CI罪案侦查" tvg-logo="https://live.fanmingming.com/tv/CI罪案侦查.png" group-title="台湾频道",CI罪案侦查
-http://220.135.64.124:5050/4gtv-live027/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="CLASSICA" tvg-logo="https://live.fanmingming.com/tv/CLASSICA.png" group-title="台湾频道",CLASSICA
-http://220.135.64.124:5050/4gtv-4gtv059/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="CLASSICA" tvg-logo="https://live.fanmingming.com/tv/CLASSICA.png" group-title="台湾频道",CLASSICA
-https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv059&token=https://t.me/GPT_858
-#EXTINF:-1 tvg-name="CMusic电影原声" tvg-logo="https://live.fanmingming.com/tv/CMusic电影原声.png" group-title="台湾频道",CMusic电影原声
-http://220.135.64.124:5050/4gtv-live031/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="DayStar" tvg-logo="https://live.fanmingming.com/tv/DayStar.png" group-title="台湾频道",DayStar
-http://xclasvgas.sylu.cc:8880/?token=dbm&id=daystar
-#EXTINF:-1 tvg-name="DreamWorks" tvg-logo="https://live.fanmingming.com/tv/DreamWorks.png" group-title="台湾频道",DreamWorks
-http://220.135.64.124:5050/4gtv-live017/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="ELTV生活英语" tvg-logo="https://live.fanmingming.com/tv/ELTV生活英语.png" group-title="台湾频道",ELTV生活英语
-http://xclasvgas.sylu.cc:8880/?token=dbm&id=litv-xinchuang20
-#EXTINF:-1 tvg-name="ELTV生活英语" tvg-logo="https://live.fanmingming.com/tv/ELTV生活英语.png" group-title="台湾频道",ELTV生活英语
-https://litv.tzh911.qzz.io/litv.php?id=litv-xinchuang20&token=https://t.me/GPT_858
-#EXTINF:-1 tvg-name="FESTIVAL探索娱乐" tvg-logo="https://live.fanmingming.com/tv/FESTIVAL探索娱乐.png" group-title="台湾频道",FESTIVAL探索娱乐
-http://220.135.64.124:5050/4gtv-live011/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="GINX Esports TV" tvg-logo="https://live.fanmingming.com/tv/GINX Esports TV.png" group-title="台湾频道",GINX Esports TV
-http://220.135.64.124:5050/4gtv-4gtv053/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="GINX Esports TV" tvg-logo="https://live.fanmingming.com/tv/GINX Esports TV.png" group-title="台湾频道",GINX Esports TV
-https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv053&token=https://t.me/GPT_858
-#EXTINF:-1 tvg-name="Global Trekker" tvg-logo="https://live.fanmingming.com/tv/Global Trekker.png" group-title="台湾频道",Global Trekker
-http://220.135.64.124:5050/4gtv-live112/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="History" tvg-logo="https://live.fanmingming.com/tv/History.png" group-title="台湾频道",History
-http://220.135.64.124:5050/4gtv-live026/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="HITS" tvg-logo="https://live.fanmingming.com/tv/HITS.png" group-title="台湾频道",HITS
-http://220.135.64.124:5050/4gtv-live620/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="HITS" tvg-logo="https://live.fanmingming.com/tv/HITS.png" group-title="台湾频道",HITS
-https://iptv.852851.xyz/ch/33cd3aa3235f1e08dc5b94bb3dde1bbb/master.m3u8
-#EXTINF:-1 tvg-name="INULTRA" tvg-logo="https://live.fanmingming.com/tv/INULTRA.png" group-title="台湾频道",INULTRA
-http://220.135.64.124:5050/4gtv-live096/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="Lifetime" tvg-logo="https://live.fanmingming.com/tv/Lifetime.png" group-title="台湾频道",Lifetime
-http://220.135.64.124:5050/4gtv-live029/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="LiveABC互动英语" tvg-logo="https://live.fanmingming.com/tv/LiveABC互动英语.png" group-title="台湾频道",LiveABC互动英语
-http://220.135.64.124:5050/4gtv-live030/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="Love Nature" tvg-logo="https://live.fanmingming.com/tv/Love Nature.png" group-title="台湾频道",Love Nature
-http://220.135.64.124:5050/4gtv-live208/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="LUXE TV" tvg-logo="https://live.fanmingming.com/tv/LUXE TV.png" group-title="台湾频道",LUXE TV
-http://220.135.64.124:5050/4gtv-live121/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="Magellan TV" tvg-logo="https://live.fanmingming.com/tv/Magellan TV.png" group-title="台湾频道",Magellan TV
-http://220.135.64.124:5050/4gtv-live123/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="Mezzo Live HD" tvg-logo="https://live.fanmingming.com/tv/Mezzo Live HD.png" group-title="台湾频道",Mezzo Live HD
-http://220.135.64.124:5050/4gtv-4gtv083/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="Mezzo Live HD" tvg-logo="https://live.fanmingming.com/tv/Mezzo Live HD.png" group-title="台湾频道",Mezzo Live HD
-https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv083&token=https://t.me/GPT_858
-#EXTINF:-1 tvg-name="MOMO亲子" tvg-logo="https://live.fanmingming.com/tv/MOMO亲子.png" group-title="台湾频道",MOMO亲子
-http://220.135.64.124:5050/4gtv-live107/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="MyCinemaEurope" tvg-logo="https://live.fanmingming.com/tv/MyCinemaEurope.png" group-title="台湾频道",MyCinemaEurope
-http://220.135.64.124:5050/litv-ftv10/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="MyCinemaEurope" tvg-logo="https://live.fanmingming.com/tv/MyCinemaEurope.png" group-title="台湾频道",MyCinemaEurope
-https://litv.tzh911.qzz.io/litv.php?id=litv-ftv10&token=https://t.me/GPT_858
-#EXTINF:-1 tvg-name="Nick Jr." tvg-logo="https://live.fanmingming.com/tv/Nick Jr..png" group-title="台湾频道",Nick Jr.
-http://220.135.64.124:5050/4gtv-live032/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="Pet Club TV" tvg-logo="https://live.fanmingming.com/tv/Pet Club TV.png" group-title="台湾频道",Pet Club TV
-https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv110&token=https://t.me/GPT_858
-#EXTINF:-1 tvg-name="ROCK Action" tvg-logo="https://live.fanmingming.com/tv/ROCK Action.png" group-title="台湾频道",ROCK Action
-http://220.135.64.124:5050/4gtv-live138/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="ROCK Action" tvg-logo="https://live.fanmingming.com/tv/ROCK Action.png" group-title="台湾频道",ROCK Action
-https://iptv.852851.xyz/ch/7764b570509d615773e0897940ae8543/master.m3u8
-#EXTINF:-1 tvg-name="ROCK Action" tvg-logo="https://live.fanmingming.com/tv/ROCK Action.png" group-title="台湾频道",ROCK Action
-https://iptv.852851.xyz/ch/b26842b3897cd4c06af028d2ef030d79/master.m3u8
-#EXTINF:-1 tvg-name="ROCK Entertainment" tvg-logo="https://live.fanmingming.com/tv/ROCK Entertainment.png" group-title="台湾频道",ROCK Entertainment
-http://220.135.64.124:5050/4gtv-live080/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="Smart知识" tvg-logo="https://live.fanmingming.com/tv/Smart知识.png" group-title="台湾频道",Smart知识
-http://xclasvgas.sylu.cc:8880/?token=dbm&id=litv-xinchuang19
-#EXTINF:-1 tvg-name="TRACE Sport Stars" tvg-logo="https://live.fanmingming.com/tv/TRACE Sport Stars.png" group-title="台湾频道",TRACE Sport Stars
-http://220.135.64.124:5050/4gtv-4gtv077/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="TRACE Sport Stars" tvg-logo="https://live.fanmingming.com/tv/TRACE Sport Stars.png" group-title="台湾频道",TRACE Sport Stars
-https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv077&token=https://t.me/GPT_858
-#EXTINF:-1 tvg-name="TRACE Urban" tvg-logo="https://live.fanmingming.com/tv/TRACE Urban.png" group-title="台湾频道",TRACE Urban
-http://220.135.64.124:5050/4gtv-4gtv082/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="TRACE Urban" tvg-logo="https://live.fanmingming.com/tv/TRACE Urban.png" group-title="台湾频道",TRACE Urban
-https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv082&token=https://t.me/GPT_858
-#EXTINF:-1 tvg-name="TV5MONDE STYLE" tvg-logo="https://live.fanmingming.com/tv/TV5MONDE STYLE.png" group-title="台湾频道",TV5MONDE STYLE
-http://220.135.64.124:5050/4gtv-live122/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="TVBS欢乐" tvg-logo="https://live.fanmingming.com/tv/TVBS欢乐.png" group-title="台湾频道",TVBS欢乐
-http://220.135.64.124:5050/4gtv-4gtv068/index.m3u8?proxy=true
+
+
+
+
+
 #EXTINF:-1 tvg-name="TVBS欢乐" tvg-logo="https://live.fanmingming.com/tv/TVBS欢乐.png" group-title="台湾频道",TVBS欢乐
 https://iptv.852851.xyz/ch/8e237e2c45602fe3eebb9890fa3ff31c/master.m3u8
 #EXTINF:-1 tvg-name="TVBS精采" tvg-logo="https://live.fanmingming.com/tv/TVBS精采.png" group-title="台湾频道",TVBS精采
