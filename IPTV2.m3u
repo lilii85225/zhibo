@@ -975,12 +975,16 @@ http://bigy.timwin.top:5400/udp/239.3.1.236:2000
 
 #EXTINF:-1 tvg-name="百事通4K纪实" tvg-logo="https://live.fanmingming.com/tv/百事通4K纪实.png" group-title="4K节目",百事通4K纪实
 http://47.110.243.216:7088/udp/233.50.200.182:5140
+#EXTINF:-1 tvg-name="百事通4K儿童" tvg-logo="https://live.fanmingming.com/tv/百事通4K儿童.png" group-title="少儿",百事通4K儿童
+http://47.110.243.216:7088/udp/233.50.200.183:5140
 #EXTINF:-1 tvg-name="百事通4K儿童" tvg-logo="https://live.fanmingming.com/tv/百事通4K儿童.png" group-title="4K节目",百事通4K儿童
 http://47.110.243.216:7088/udp/233.50.200.183:5140
 #EXTINF:-1 tvg-name="百事通4K电影" tvg-logo="https://live.fanmingming.com/tv/百事通4K电影.png" group-title="4K节目",百事通4K电影
 http://47.110.243.216:7088/udp/233.50.200.185:5140
 #EXTINF:-1 tvg-name="百事通4K电影" tvg-logo="https://live.fanmingming.com/tv/百事通4K电影.png" group-title="4K节目",百事通4K电影
 http://home.wscxy.fun:30100/udp/233.18.204.169:5140
+#EXTINF:-1 tvg-name="百事通4K儿童" tvg-logo="https://live.fanmingming.com/tv/百事通4K儿童.png" group-title="少儿",百事通4K儿童
+http://home.wscxy.fun:30100/udp/233.18.204.171:5140
 #EXTINF:-1 tvg-name="百事通4K儿童" tvg-logo="https://live.fanmingming.com/tv/百事通4K儿童.png" group-title="4K节目",百事通4K儿童
 http://home.wscxy.fun:30100/udp/233.18.204.171:5140
 #EXTINF:-1 tvg-name="百事通4K纪实" tvg-logo="https://live.fanmingming.com/tv/百事通4K纪实.png" group-title="4K节目",百事通4K纪实
@@ -1003,10 +1007,11 @@ https://live.264788.xyz/channel/kakushaoer?streamid=f069028f0dff385fda42852ff102
 https://live.264788.xyz/channel/kakushaoer?streamid=213fa3c42c397943bc8305af3f5025e7&livekey=01WdXxwZwlSCFbg7o5frIlAfU2AvrJ5L4QGfq
 #EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://live.fanmingming.com/tv/金鹰卡通.png" group-title="少儿",金鹰卡通
 https://live.264788.xyz/channel/jinyingkatong?streamid=6bd8e7571b60048f177f05de68f25f68&livekey=01WdXxwZwlSCFbg7o5frIlAfU2AvrJ5L4QGfq
-#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://live.fanmingming.com/tv/金鹰卡通.png" group-title="",金鹰卡通
-https://live.264788.xyz/channel/jinyingkatong?streamid=7ef6d435b0f2d9b2c0873eb1b403436f&livekey=01WdXxwZwlSCFbg7o5frIlAfU2AvrJ5L4QGfq
+
 #EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://live.fanmingming.com/tv/金鹰卡通.png" group-title="少儿",金鹰卡通
 https://live.264788.xyz/channel/jinyingkatong?streamid=df19588f986fb1a623be21b3582008fe&livekey=01WdXxwZwlSCFbg7o5frIlAfU2AvrJ5L4QGfq
+#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://live.fanmingming.com/tv/金鹰卡通.png" group-title="少儿",金鹰卡通
+https://live.264788.xyz/channel/jinyingkatong?streamid=7ef6d435b0f2d9b2c0873eb1b403436f&livekey=01WdXxwZwlSCFbg7o5frIlAfU2AvrJ5L4QGfq
 #EXTINF:-1 tvg-name="哈哈炫动" tvg-logo="https://live.fanmingming.com/tv/哈哈炫动.png" group-title="少儿",哈哈炫动
 https://live.264788.xyz/channel/hahaxuandong?streamid=a6d62b84ef0ba02ea4216286b3e49b2c&livekey=01WdXxwZwlSCFbg7o5frIlAfU2AvrJ5L4QGfq
 #EXTINF:-1 tvg-name="哈哈炫动" tvg-logo="https://live.fanmingming.com/tv/哈哈炫动.png" group-title="少儿",哈哈炫动
@@ -1255,7 +1260,7 @@ https://iptv.852851.xyz/ch/13eaf1f8e1b5a94d2350dccab165849a/master.m3u8
 http://xclasvgas.sylu.cc:8880/?token=dbm&id=litv-xinchuang03
 #EXTINF:-1 tvg-name="龙华经典" tvg-logo="https://live.fanmingming.com/tv/龙华经典.png" group-title="台湾频道",龙华经典
 http://xclasvgas.sylu.cc:8880/?token=dbm&id=litv-xinchuang21
-#EXTINF:-1 tvg-name="龙华卡通" tvg-logo="https://live.fanmingming.com/tv/龙华卡通.png" group-title="台湾频道",龙华卡通
+#EXTINF:-1 tvg-name="龙华卡通" tvg-logo="https://live.fanmingming.com/tv/龙华卡通.png" group-title="少儿",龙华卡通
 http://xclasvgas.sylu.cc:8880/?token=dbm&id=litv-xinchuang01
 #EXTINF:-1 tvg-name="龙华偶像" tvg-logo="https://live.fanmingming.com/tv/龙华偶像.png" group-title="台湾频道",龙华偶像
 http://xclasvgas.sylu.cc:8880/?token=dbm&id=litv-xinchuang12
@@ -1277,7 +1282,7 @@ https://iptv.852851.xyz/ch/3e6556a198b28fd892094854a25d53aa/master.m3u8
 
 
 
-#EXTINF:-1 tvg-name="尼克儿童" tvg-logo="https://live.fanmingming.com/tv/尼克儿童.png" group-title="台湾频道",尼克儿童
+#EXTINF:-1 tvg-name="尼克儿童" tvg-logo="https://live.fanmingming.com/tv/尼克儿童.png" group-title="少儿",尼克儿童
 http://220.135.64.124:5050/4gtv-live105/index.m3u8?proxy=true
 
 #EXTINF:-1 tvg-name="台湾戏剧" tvg-logo="https://live.fanmingming.com/tv/台湾戏剧.png" group-title="台湾频道",台湾戏剧
