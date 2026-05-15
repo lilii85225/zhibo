@@ -953,14 +953,10 @@ https://live.264788.xyz/channel/zhejiangweishi4k?streamid=a5b6e60170ee8c69290def
 https://live.264788.xyz/channel/jiangsuweishi4k?streamid=306fa7c5a3bb1b091331de3a638c01b0&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 #EXTINF:-1 tvg-name="江苏卫视4K" tvg-logo="https://live.fanmingming.com/tv/江苏卫视4K.png" group-title="4K节目",江苏卫视4K
 https://live.264788.xyz/channel/jiangsuweishi4k?streamid=375dbc290331f86f70689c85cd16e1eb&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-
 #EXTINF:-1 tvg-name="多彩文体" tvg-logo="https://live.fanmingming.com/tv/多彩文体.png" group-title="4K节目",多彩文体
 https://live.264788.xyz/channel/huanxiaojuchang4k?streamid=9ca725ba158e786e5bc6f2bbdcc209bf&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-
 #EXTINF:-1 tvg-name="多彩文体" tvg-logo="https://live.fanmingming.com/tv/多彩文体.png" group-title="4K节目",多彩文体
 https://live.264788.xyz/channel/huanxiaojuchang4k?streamid=cbedb39bb41035264ac140fba7a43073&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-
-
 #EXTINF:-1 tvg-name="多彩文体" tvg-logo="https://live.fanmingming.com/tv/多彩文体.png" group-title="4K节目",多彩文体
 http://47.110.243.216:7088/udp/233.50.200.52:5140
 #EXTINF:-1 tvg-name="多彩文体" tvg-logo="https://live.fanmingming.com/tv/多彩文体.png" group-title="4K节目",多彩文体
@@ -971,8 +967,6 @@ http://124.116.170.138:8081/udp/239.112.205.186:5140
 http://jxyxnk.x3322.net:4022/udp/239.252.220.212:5140
 #EXTINF:-1 tvg-name="爱上4K" tvg-logo="https://live.fanmingming.com/tv/爱上4K.png" group-title="4K节目",爱上4K
 http://bigy.timwin.top:5400/udp/239.3.1.236:2000
-
-
 #EXTINF:-1 tvg-name="百事通4K纪实" tvg-logo="https://live.fanmingming.com/tv/百事通4K纪实.png" group-title="4K节目",百事通4K纪实
 http://47.110.243.216:7088/udp/233.50.200.182:5140
 #EXTINF:-1 tvg-name="百事通4K儿童" tvg-logo="https://live.fanmingming.com/tv/百事通4K儿童.png" group-title="少儿",百事通4K儿童
@@ -989,16 +983,18 @@ http://home.wscxy.fun:30100/udp/233.18.204.171:5140
 http://home.wscxy.fun:30100/udp/233.18.204.171:5140
 #EXTINF:-1 tvg-name="百事通4K纪实" tvg-logo="https://live.fanmingming.com/tv/百事通4K纪实.png" group-title="4K节目",百事通4K纪实
 http://home.wscxy.fun:30100/udp/233.18.204.170:5140
-
-
-
 #EXTINF:-1 tvg-name="INULTRA 4K" tvg-logo="https://live.fanmingming.com/tv/INULTRA 4K.png" group-title="4K节目",INULTRA 4K
 https://iptv.852851.xyz/ch/5597cc687e409d9888114aa1090f4a8d/master.m3u8
-
 #EXTINF:-1 tvg-name="LOVE NATURE 4K" tvg-logo="https://live.fanmingming.com/tv/LOVE NATURE 4K.png" group-title="4K节目",LOVE NATURE 4K
 https://iptv.852851.xyz/ch/a859f84951d60ea32d52e414fe95bf4e/master.m3u8
 #EXTINF:-1 tvg-name="LOVE NATURE 4K" tvg-logo="https://live.fanmingming.com/tv/LOVE NATURE 4K.png" group-title="4K节目",LOVE NATURE 4K
 https://iptv.852851.xyz/ch/4cc386732671010a4190b74b0eb96031/master.m3u8
+#EXTINF:-1 tvg-name="Clarity 4K" tvg-logo="https://live.fanmingming.com/tv/Clarity 4K.png" group-title="4K节目",Clarity 4K
+https://iptv.707626.xyz/ch/6b524eba472d8b84fc243b6510737145/master.m3u8
+#EXTINF:-1 tvg-name="Love Nature 4K CA" tvg-logo="https://live.fanmingming.com/tv/Love Nature 4K CA.png" group-title="4K节目",Love Nature 4K CA
+https://iptv.707626.xyz/ch/a859f84951d60ea32d52e414fe95bf4e/master.m3u8
+#EXTINF:-1 tvg-name="NESN 4K" tvg-logo="https://live.fanmingming.com/tv/NESN 4K.png" group-title="4K节目",NESN 4K
+https://iptv.707626.xyz/ch/4213d7c43e94f427ba46fe8d513eeb87/master.m3u8
 #EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://live.fanmingming.com/tv/卡酷少儿.png" group-title="少儿",卡酷少儿
 https://live.264788.xyz/channel/kakushaoer?streamid=e3c5e2aec1f1cf295a1323602a0ed8dd&livekey=01WdXxwZwlSCFbg7o5frIlAfU2AvrJ5L4QGfq
 #EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://live.fanmingming.com/tv/卡酷少儿.png" group-title="少儿",卡酷少儿
@@ -1067,19 +1063,13 @@ https://live.264788.xyz/channel/kakushaoer?streamid=075590d5ea37c60bf4e538a074cd
 https://live.264788.xyz/channel/kakushaoer?streamid=04894ea6b243c57dfbb535da040373c8&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 #EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://live.fanmingming.com/tv/卡酷少儿.png" group-title="少儿",卡酷少儿
 https://live.264788.xyz/channel/kakushaoer?streamid=213fa3c42c397943bc8305af3f5025e7&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="港台节目",翡翠台
+https://iptv.852851.xyz/ch/dcd9af2a8c211c18caf57e82f18e78a9/master.m3u8
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="港台节目",翡翠台
+https://o11.163189.xyz/stream/tvb/fct/
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="港台节目",翡翠台
 https://iptv.707626.xyz/ch/dcd9af2a8c211c18caf57e82f18e78a9/master.m3u8
-#EXTINF:-1 tvg-name="Clarity 4K" tvg-logo="https://live.fanmingming.com/tv/Clarity 4K.png" group-title="4K节目",Clarity 4K
-https://iptv.707626.xyz/ch/6b524eba472d8b84fc243b6510737145/master.m3u8
-#EXTINF:-1 tvg-name="FIGHT SPORTS HD" tvg-logo="https://live.fanmingming.com/tv/FIGHT SPORTS HD.png" group-title="4K节目",FIGHT SPORTS HD
-https://iptv.707626.xyz/ch/4a60d42b902d9825f9a14f143a7bf5bc/master.m3u8
 
-
-#EXTINF:-1 tvg-name="Love Nature 4K CA" tvg-logo="https://live.fanmingming.com/tv/Love Nature 4K CA.png" group-title="4K节目",Love Nature 4K CA
-https://iptv.707626.xyz/ch/a859f84951d60ea32d52e414fe95bf4e/master.m3u8
-#EXTINF:-1 tvg-name="NESN 4K" tvg-logo="https://live.fanmingming.com/tv/NESN 4K.png" group-title="4K节目",NESN 4K
-https://iptv.707626.xyz/ch/4213d7c43e94f427ba46fe8d513eeb87/master.m3u8
 #EXTINF:-1 tvg-name="鳳凰衛視中文台" tvg-logo="https://live.fanmingming.com/tv/鳳凰衛視中文台.png" group-title="港台节目",鳳凰衛視中文台
 http://hs.hejd.net:7088/udp/233.50.202.35:5140
 #EXTINF:-1 tvg-name="鳳凰衛視資訊台" tvg-logo="https://live.fanmingming.com/tv/鳳凰衛視資訊台.png" group-title="港台节目",鳳凰衛視資訊台
@@ -1127,10 +1117,7 @@ https://iptv.852851.xyz/ch/0772672454f35d2525b52125814a2287/master.m3u8
 https://iptv.852851.xyz/ch/daeefde9dc8798b55bca340479357ebf/master.m3u8
 
 
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="港台节目",翡翠台
-https://iptv.852851.xyz/ch/dcd9af2a8c211c18caf57e82f18e78a9/master.m3u8
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="港台节目",翡翠台
-https://o11.163189.xyz/stream/tvb/fct/
+
 
 #EXTINF:-1 tvg-name="TVB华丽翡翠(新加坡)" tvg-logo="https://live.fanmingming.com/tv/TVB华丽翡翠(新加坡).png" group-title="港台节目",TVB华丽翡翠(新加坡)
 https://o11.163189.xyz/stream/live/jade/
@@ -1307,17 +1294,18 @@ https://iptv.852851.xyz/ch/177f5903c7e4ae806ba85f66cb9a47e9/master.m3u8
 
 
 
-#EXTINF:-1 tvg-name="澳视澳门" tvg-logo="https://live.fanmingming.com/tv/澳视澳门.png" group-title="澳门节目",澳视澳门
-https://cdn6.163189.xyz/163189/asam
-
-#EXTINF:-1 tvg-name="澳门MACAU" tvg-logo="https://live.fanmingming.com/tv/澳门MACAU.png" group-title="澳门节目",澳门MACAU
-http://122.100.242.52:12179/stream/channelid/1285655862?profile=pass
 #EXTINF:-1 tvg-name="CETV-1综合教育" tvg-logo="https://live.fanmingming.com/tv/CETV-1综合教育.png" group-title="CETV",CETV-1综合教育
 https://live.264788.xyz/channel/cetv1?streamid=f4b36de9e0ed50412e1fe3fbed4262a8&livekey=01WdXxwZwlSCFbg7o5jGnYAfTGrVH2HU5yGd1
 #EXTINF:-1 tvg-name="CETV-1综合教育" tvg-logo="https://live.fanmingming.com/tv/CETV-1综合教育.png" group-title="CETV",CETV-1综合教育
 https://live.264788.xyz/channel/cetv1?streamid=fef40e80f1c448ad9436af5c51205214&livekey=01WdXxwZwlSCFbg7o5jGnYAfTGrVH2HU5yGd1
 #EXTINF:-1 tvg-name="CETV-1综合教育" tvg-logo="https://live.fanmingming.com/tv/CETV-1综合教育.png" group-title="CETV",CETV-1综合教育
 https://live.264788.xyz/channel/cetv1?streamid=dedc96e3bc3a461b92ccfc071786345a&livekey=01WdXxwZwlSCFbg7o5jGnYAfTGrVH2HU5yGd1
+#EXTINF:-1 tvg-name="CETV-1综合教育" tvg-logo="https://live.fanmingming.com/tv/CETV-1综合教育.png" group-title="CETV",CETV-1综合教育
+https://live.264788.xyz/channel/cetv1?streamid=f1777f794d92011bba4f6796c0573287&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 tvg-name="CETV-1综合教育" tvg-logo="https://live.fanmingming.com/tv/CETV-1综合教育.png" group-title="CETV",CETV-1综合教育
+https://live.264788.xyz/channel/cetv1?streamid=5499155e72ecb123c418911e60349380&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 tvg-name="CETV-1综合教育" tvg-logo="https://live.fanmingming.com/tv/CETV-1综合教育.png" group-title="CETV",CETV-1综合教育
+https://live.264788.xyz/channel/cetv1?streamid=f4b36de9e0ed50412e1fe3fbed4262a8&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 #EXTINF:-1 tvg-name="CETV-2教育教学" tvg-logo="https://live.fanmingming.com/tv/CETV-2教育教学.png" group-title="CETV",CETV-2教育教学
 https://live.264788.xyz/channel/cetv2?streamid=54effc2c015b2dc5a4c21e27f9482b50&livekey=01WdXxwZwlSCFbg7o5jGnYAfTGrVH2HU5yGd1
 #EXTINF:-1 tvg-name="CETV-2教育教学" tvg-logo="https://live.fanmingming.com/tv/CETV-2教育教学.png" group-title="CETV",CETV-2教育教学
@@ -1326,20 +1314,6 @@ https://live.264788.xyz/channel/cetv2?streamid=e3c639a9c0417b3859ab24d19854970d&
 https://live.264788.xyz/channel/cetv4?streamid=37d60172a2bbb0d41f072d29213e6264&livekey=01WdXxwZwlSCFbg7o5jGnYAfTGrVH2HU5yGd1
 #EXTINF:-1 tvg-name="CETV-4职业教育" tvg-logo="https://live.fanmingming.com/tv/CETV-4职业教育.png" group-title="CETV",CETV-4职业教育
 https://live.264788.xyz/channel/cetv4?streamid=b6b18c83a0faf28406aa00620a3a5cc4&livekey=01WdXxwZwlSCFbg7o5jGnYAfTGrVH2HU5yGd1
-
-#EXTINF:-1 tvg-name="CETV-1综合教育" tvg-logo="https://live.fanmingming.com/tv/CETV-1综合教育.png" group-title="CETV",CETV-1综合教育
-https://live.264788.xyz/channel/cetv1?streamid=f1777f794d92011bba4f6796c0573287&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-#EXTINF:-1 tvg-name="CETV-1综合教育" tvg-logo="https://live.fanmingming.com/tv/CETV-1综合教育.png" group-title="CETV",CETV-1综合教育
-https://live.264788.xyz/channel/cetv1?streamid=5499155e72ecb123c418911e60349380&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-
-#EXTINF:-1 tvg-name="CETV-1综合教育" tvg-logo="https://live.fanmingming.com/tv/CETV-1综合教育.png" group-title="CETV",CETV-1综合教育
-https://live.264788.xyz/channel/cetv1?streamid=f4b36de9e0ed50412e1fe3fbed4262a8&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-
-#EXTINF:-1 tvg-name="CETV-2教育教学" tvg-logo="https://live.fanmingming.com/tv/CETV-2教育教学.png" group-title="CETV",CETV-2教育教学
-https://live.264788.xyz/channel/cetv2?streamid=ebf5462131d3e76e622e46655e76f647&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-#EXTINF:-1 tvg-name="CETV-2教育教学" tvg-logo="https://live.fanmingming.com/tv/CETV-2教育教学.png" group-title="CETV",CETV-2教育教学
-https://live.264788.xyz/channel/cetv2?streamid=54effc2c015b2dc5a4c21e27f9482b50&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-
 #EXTINF:-1 tvg-name="CETV-4职业教育" tvg-logo="https://live.fanmingming.com/tv/CETV-4职业教育.png" group-title="CETV",CETV-4职业教育
 https://live.264788.xyz/channel/cetv4?streamid=37d60172a2bbb0d41f072d29213e6264&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 #EXTINF:-1 tvg-name="CETV-4职业教育" tvg-logo="https://live.fanmingming.com/tv/CETV-4职业教育.png" group-title="CETV",CETV-4职业教育
@@ -1415,3 +1389,5 @@ https://live.264788.xyz/channel/caifutianxia?streamid=b451c7c6fde3d1b517f4d1e42e
 https://live.264788.xyz/channel/cha?streamid=66f1829851f8c2069b262b1ce7836d7e&livekey=01WdXxwZwlSCFbg7o5frIlAfU2AvrJ5L4QGfq
 #EXTINF:-1 tvg-name="快乐垂钓" tvg-logo="https://live.fanmingming.com/tv/快乐垂钓.png" group-title="付费频道",快乐垂钓
 https://live.264788.xyz/channel/kuailechuidiao?streamid=6a60d1c6862ba21566324b885fedcccb&livekey=01WdXxwZwlSCFbg7o5frIlAfU2AvrJ5L4QGfq
+#EXTINF:-1 tvg-name="FIGHT SPORTS HD" tvg-logo="https://live.fanmingming.com/tv/FIGHT SPORTS HD.png" group-title="付费频道",FIGHT SPORTS HD
+https://iptv.707626.xyz/ch/4a60d42b902d9825f9a14f143a7bf5bc/master.m3u8
