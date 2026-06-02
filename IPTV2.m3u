@@ -768,7 +768,7 @@ http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jb
 
 #EXTINF:-1 tvg-name="江苏卫视4K" tvg-logo="https://live.fanmingming.com/tv/江苏卫视4K.png" group-title="4K节目",江苏卫视4K
 http://8.138.7.223/tv/jsws4k.php
-#EXTINF:-1 tvg-name="河北4K" tvg-logo="https://live.fanmingming.com/tv/河北4K.png" group-title="4K节目",河北4K
+#EXTINF:-1 tvg-name="河北卫视4K" tvg-logo="https://live.fanmingming.com/tv/河北卫视4K.png" group-title="4K节目",河北卫视4K
 https://event.pull.hebtv.com:443/live/live101.m3u8
 
 
