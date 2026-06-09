@@ -701,7 +701,7 @@ http://47.110.243.216:7088/udp/233.50.200.52:5140
 https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001490/index.m3u8?streamid=9ca725ba158e786e5bc6f2bbdcc209bf&streamkey=0AGMO6LiBIxyH4EhXQA4CyyBB6GWkVdx4wZhM6J1AywT63McWrpsYW9yLXS08YubrPIfbHwZLLnp7So4ZwIBrnd0XfZRr8BbmzbuifkWu2isG4qQh6gE8sxMfPTZh3ri&token=1775939208-d56ed9c8bb67d5e7-0-2a1d1f2081da3c539979b1c938effb5f
 
 
-#EXTINF:-1 tvg-name="河北卫视4K" tvg-logo="https://live.fanmingming.com/tv/河北卫视4K.png" group-title="4K节目",河北卫视4K
+#EXTINF:-1 tvg-name="河北4K" tvg-logo="https://live.fanmingming.com/tv/河北4K.png" group-title="4K节目",河北4K
 https://event.pull.hebtv.com:443/live/live101.m3u8
 #EXTINF:-1 tvg-name="北京卫视4K" tvg-logo="https://live.fanmingming.com/tv/北京卫视4K.png" group-title="4K节目",北京卫视4K
 https://live.264788.xyz/channel/beijingweishi4k?streamid=20915ffd9b2848bf3604dfea93e5f344&livekey=01WdXxwZwlSCFbg7o5frIlAfU2AvrJ5L4QGfq
@@ -753,11 +753,11 @@ http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jb
 
 #EXTINF:-1 tvg-name="江苏卫视4K" tvg-logo="https://live.fanmingming.com/tv/江苏卫视4K.png" group-title="4K节目",江苏卫视4K
 http://8.138.7.223/tv/jsws4k.php
-#EXTINF:-1 tvg-name="河北4K" tvg-logo="https://live.fanmingming.com/tv/河北卫视4K.png" group-title="4K节目",河北4K
+#EXTINF:-1 tvg-name="河北4K" tvg-logo="https://live.fanmingming.com/tv/河北4K.png" group-title="4K节目",河北4K
 https://event.pull.hebtv.com:443/live/live101.m3u8
 #EXTINF:-1 group-title="4K节目" tvg-name="苏州4K" tvg-logo="https://epg.112114.xyz/logo/苏州4K.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",苏州4K
 https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8
-#EXTINF:-1 group-title="4K节目" tvg-name="看东方4K" tvg-logo="https://epg.112114.xyz/logo/看东方4K.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",看东方4K
+#EXTINF:-1 group-title="4K节目" tvg-name="东方卫视4K" tvg-logo="https://epg.112114.xyz/logo/东方卫视4K.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",东方卫视4K
 http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
 #EXTINF:-1 group-title="4K节目" tvg-name="南国都市4K" tvg-logo="https://epg.112114.xyz/logo/南国都市4K.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",南国都市4K
 http://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=140110ae3d6c936a77f94c4f4d85b0d3&txTime=18d57929bd4
