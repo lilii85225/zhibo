@@ -971,37 +971,24 @@ https://live.264788.xyz/channel/kakushaoer?streamid=075590d5ea37c60bf4e538a074cd
 https://live.264788.xyz/channel/kakushaoer?streamid=04894ea6b243c57dfbb535da040373c8&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 #EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://live.fanmingming.com/tv/卡酷少儿.png" group-title="少儿",卡酷少儿
 https://live.264788.xyz/channel/kakushaoer?streamid=213fa3c42c397943bc8305af3f5025e7&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="香港节目",翡翠台
-https://iptv.852851.xyz/ch/dcd9af2a8c211c18caf57e82f18e78a9/master.m3u8
+
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="香港节目",翡翠台
 https://o11.163189.xyz/stream/tvb/fct/
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="香港节目",翡翠台
-https://iptv.707626.xyz/ch/dcd9af2a8c211c18caf57e82f18e78a9/master.m3u8
+
+
 
 #EXTINF:-1 tvg-name="鳳凰衛視中文台" tvg-logo="https://live.fanmingming.com/tv/鳳凰衛視中文台.png" group-title="香港节目",鳳凰衛視中文台
-http://hs.hejd.net:7088/udp/233.50.202.35:5140
-#EXTINF:-1 tvg-name="鳳凰衛視資訊台" tvg-logo="https://live.fanmingming.com/tv/鳳凰衛視資訊台.png" group-title="香港节目",鳳凰衛視資訊台
-http://hs.hejd.net:7088/udp/233.50.202.36:5140
-#EXTINF:-1 tvg-name="鳳凰衛視中文台" tvg-logo="https://live.fanmingming.com/tv/鳳凰衛視中文台.png" group-title="香港节目",鳳凰衛視中文台
-http://ipv4.hs.imyjy.cn:7088/udp/233.50.202.35:5140
-#EXTINF:-1 tvg-name="鳳凰衛視資訊台" tvg-logo="https://live.fanmingming.com/tv/鳳凰衛視資訊台.png" group-title="香港节目",鳳凰衛視資訊台
-http://ipv4.hs.imyjy.cn:7088/udp/233.50.202.36:5140
-#EXTINF:-1 tvg-name="鳳凰衛視中文台" tvg-logo="https://live.fanmingming.com/tv/鳳凰衛視中文台.png" group-title="香港节目",鳳凰衛視中文台
 http://l3.negative.video:50000/udp/233.50.202.35:5140
-#EXTINF:-1 tvg-name="鳳凰衛視資訊台" tvg-logo="https://live.fanmingming.com/tv/鳳凰衛視資訊台.png" group-title="香港节目",鳳凰衛視資訊台
-http://l3.negative.video:50000/udp/233.50.202.36:5140
+
 #EXTINF:-1 tvg-name="鳳凰衛視中文台" tvg-logo="https://live.fanmingming.com/tv/鳳凰衛視中文台.png" group-title="香港节目",鳳凰衛視中文台
 http://www.liangcl.top:8686/udp/233.50.202.35:5140
-#EXTINF:-1 tvg-name="鳳凰衛視資訊台" tvg-logo="https://live.fanmingming.com/tv/鳳凰衛視資訊台.png" group-title="香港节目",鳳凰衛視資訊台
-http://www.liangcl.top:8686/udp/233.50.202.36:5140
+
 #EXTINF:-1 tvg-name="鳳凰衛視中文台" tvg-logo="https://live.fanmingming.com/tv/鳳凰衛視中文台.png" group-title="香港节目",鳳凰衛視中文台
 http://www.lvyjay.win:4022/udp/233.50.202.35:5140
 #EXTINF:-1 tvg-name="鳳凰衛視資訊台" tvg-logo="https://live.fanmingming.com/tv/鳳凰衛視資訊台.png" group-title="香港节目",鳳凰衛視資訊台
 http://www.lvyjay.win:4022/udp/233.50.202.36:5140
 #EXTINF:-1 tvg-name="鳳凰衛視中文台" tvg-logo="https://live.fanmingming.com/tv/鳳凰衛視中文台.png" group-title="香港节目",鳳凰衛視中文台
 http://www.negative.top:50000/udp/233.50.202.35:5140
-#EXTINF:-1 tvg-name="鳳凰衛視資訊台" tvg-logo="https://live.fanmingming.com/tv/鳳凰衛視資訊台.png" group-title="香港节目",鳳凰衛視資訊台
-http://www.negative.top:50000/udp/233.50.202.36:5140
 
 
 
