@@ -1123,82 +1123,12 @@ rtmp://f13h.mine.nu/sat/tv071
 rtmp://f13h.mine.nu/sat/tv701
 #EXTINF:-1 tvg-name="中视" tvg-logo="https://live.fanmingming.com/tv/中视.png" group-title="台湾频道",中视
 rtmp://f13h.mine.nu/sat/tv091
-#EXTINF:-1 tvg-name="TVBS" tvg-logo="https://live.fanmingming.com/tv/TVBS.png" group-title="台湾频道",TVBS
-https://iptv.852851.xyz/ch/490e01bc4bc49c735fdf421170bb4536/master.m3u8
-#EXTINF:-1 tvg-name="TVBS新闻" tvg-logo="https://live.fanmingming.com/tv/TVBS新闻.png" group-title="台湾频道",TVBS新闻
-https://iptv.852851.xyz/ch/34dfa3110b23be3964e6630ef747a71b/master.m3u8
-#EXTINF:-1 tvg-name="东森新闻" tvg-logo="https://live.fanmingming.com/tv/东森新闻.png" group-title="台湾频道",东森新闻
-https://iptv.852851.xyz/ch/3e9793ca3473025290a1af49f9d4af0a/master.m3u8
-#EXTINF:-1 tvg-name="东森财经新闻" tvg-logo="https://live.fanmingming.com/tv/东森财经新闻.png" group-title="台湾频道",东森财经新闻
-https://iptv.852851.xyz/ch/4282178b26b45173c835d4e5e2f3446b/master.m3u8
-#EXTINF:-1 tvg-name="寰宇新闻" tvg-logo="https://live.fanmingming.com/tv/寰宇新闻.png" group-title="台湾频道",寰宇新闻
-https://iptv.852851.xyz/ch/44f49d44835ef34acc0e2aacdbec1513/master.m3u8
-#EXTINF:-1 tvg-name="寰宇新闻" tvg-logo="https://live.fanmingming.com/tv/寰宇新闻.png" group-title="台湾频道",寰宇新闻
-https://litv.tzh911.qzz.io/litv.php?id=litv-longturn14&token=https://t.me/GPT_858
-#EXTINF:-1 tvg-name="寰宇新闻台湾" tvg-logo="https://live.fanmingming.com/tv/寰宇新闻台湾.png" group-title="台湾频道",寰宇新闻台湾
-https://iptv.852851.xyz/ch/c923b10e6ed936189a40933fbd841da9/master.m3u8
-#EXTINF:-1 tvg-name="民视新闻" tvg-logo="https://live.fanmingming.com/tv/民视新闻.png" group-title="台湾频道",民视新闻
-https://iptv.852851.xyz/ch/d189e089ebb1c52dc37afcaa7fb0f732/master.m3u8
-#EXTINF:-1 tvg-name="三立新闻iNEWS" tvg-logo="https://live.fanmingming.com/tv/三立新闻iNEWS.png" group-title="台湾频道",三立新闻iNEWS
-https://iptv.852851.xyz/ch/6c0dfd2d665343f014b36b6888c1ff14/master.m3u8
-#EXTINF:-1 tvg-name="中视新闻" tvg-logo="https://live.fanmingming.com/tv/中视新闻.png" group-title="台湾频道",中视新闻
-https://iptv.852851.xyz/ch/c87ed6b3f13ae3f15e3cb76736f6c660/master.m3u8
-#EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://live.fanmingming.com/tv/中天新闻.png" group-title="台湾频道",中天新闻
-https://iptv.852851.xyz/ch/9cc92e5d8ca3b2fa16ad6c1dee5dff6e/master.m3u8
-#EXTINF:-1 tvg-name="倪珍播新闻" tvg-logo="https://live.fanmingming.com/tv/倪珍播新闻.png" group-title="台湾频道",倪珍播新闻
-http://xclasvgas.sylu.cc:8880/?token=dbm&id=nnews-zh
-#EXTINF:-1 tvg-name="第1商业" tvg-logo="https://live.fanmingming.com/tv/第1商业.png" group-title="台湾频道",第1商业
-http://xclasvgas.sylu.cc:8880/?token=dbm&id=4gtv-4gtv104
-#EXTINF:-1 tvg-name="AMC电影" tvg-logo="https://live.fanmingming.com/tv/AMC电影.png" group-title="台湾频道",AMC电影
-https://iptv.852851.xyz/ch/6788c3866786a8fffece835298a4a93c/master.m3u8
-#EXTINF:-1 tvg-name="TVBS欢乐" tvg-logo="https://live.fanmingming.com/tv/TVBS欢乐.png" group-title="台湾频道",TVBS欢乐
-https://iptv.852851.xyz/ch/8e237e2c45602fe3eebb9890fa3ff31c/master.m3u8
-#EXTINF:-1 tvg-name="TVBS精采" tvg-logo="https://live.fanmingming.com/tv/TVBS精采.png" group-title="台湾频道",TVBS精采
-https://iptv.852851.xyz/ch/bb3281a447bf2b92e8649856a3cf47e4/master.m3u8
-#EXTINF:-1 tvg-name="博斯高球" tvg-logo="https://live.fanmingming.com/tv/博斯高球.png" group-title="台湾频道",博斯高球
-https://iptv.852851.xyz/ch/a5e9e7032ecb8af768a65c9ae12fc884/master.m3u8
-#EXTINF:-1 tvg-name="金光布袋戏" tvg-logo="https://live.fanmingming.com/tv/金光布袋戏.png" group-title="台湾频道",金光布袋戏
-https://iptv.852851.xyz/ch/25b16c8078470f48c7d2c81116d4d219/master.m3u8
-#EXTINF:-1 tvg-name="靖天电影" tvg-logo="https://live.fanmingming.com/tv/靖天电影.png" group-title="台湾频道",靖天电影
-https://iptv.852851.xyz/ch/3a322f04f5ad7923c21dbce8f8f0d885/master.m3u8
-#EXTINF:-1 tvg-name="靖天电影" tvg-logo="https://live.fanmingming.com/tv/靖天电影.png" group-title="台湾频道",靖天电影
-https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv061&token=https://t.me/GPT_858
-#EXTINF:-1 tvg-name="靖天戏剧" tvg-logo="https://live.fanmingming.com/tv/靖天戏剧.png" group-title="台湾频道",靖天戏剧
-https://iptv.852851.xyz/ch/a0ce5f61da4ba42090cd8a6fb3144126/master.m3u8
-#EXTINF:-1 tvg-name="靖天映画" tvg-logo="https://live.fanmingming.com/tv/靖天映画.png" group-title="台湾频道",靖天映画
-https://iptv.852851.xyz/ch/13eaf1f8e1b5a94d2350dccab165849a/master.m3u8
-#EXTINF:-1 tvg-name="龙华电影" tvg-logo="https://live.fanmingming.com/tv/龙华电影.png" group-title="台湾频道",龙华电影
-http://xclasvgas.sylu.cc:8880/?token=dbm&id=litv-xinchuang03
-#EXTINF:-1 tvg-name="龙华经典" tvg-logo="https://live.fanmingming.com/tv/龙华经典.png" group-title="台湾频道",龙华经典
-http://xclasvgas.sylu.cc:8880/?token=dbm&id=litv-xinchuang21
-#EXTINF:-1 tvg-name="龙华卡通" tvg-logo="https://live.fanmingming.com/tv/龙华卡通.png" group-title="少儿",龙华卡通
-http://xclasvgas.sylu.cc:8880/?token=dbm&id=litv-xinchuang01
-#EXTINF:-1 tvg-name="龙华偶像" tvg-logo="https://live.fanmingming.com/tv/龙华偶像.png" group-title="台湾频道",龙华偶像
-http://xclasvgas.sylu.cc:8880/?token=dbm&id=litv-xinchuang12
-#EXTINF:-1 tvg-name="龙华日韩" tvg-logo="https://live.fanmingming.com/tv/龙华日韩.png" group-title="台湾频道",龙华日韩
-http://xclasvgas.sylu.cc:8880/?token=dbm&id=litv-xinchuang11
-#EXTINF:-1 tvg-name="龙华戏剧" tvg-logo="https://live.fanmingming.com/tv/龙华戏剧.png" group-title="台湾频道",龙华戏剧
-http://xclasvgas.sylu.cc:8880/?token=dbm&id=litv-xinchuang18
-#EXTINF:-1 tvg-name="龙华洋片" tvg-logo="https://live.fanmingming.com/tv/龙华洋片.png" group-title="台湾频道",龙华洋片
-http://xclasvgas.sylu.cc:8880/?token=dbm&id=litv-xinchuang02
-#EXTINF:-1 tvg-name="龙祥时代" tvg-logo="https://live.fanmingming.com/tv/龙祥时代.png" group-title="台湾频道",龙祥时代
-https://iptv.852851.xyz/ch/f37266a1a2c1dc8d8989851e93c5b22f/master.m3u8
-#EXTINF:-1 tvg-name="美亚电影" tvg-logo="https://live.fanmingming.com/tv/美亚电影.png" group-title="台湾频道",美亚电影
-https://iptv.852851.xyz/ch/a4b55ca9ac177e194e6df0d37b500a3c/master.m3u8
-#EXTINF:-1 tvg-name="民视" tvg-logo="https://live.fanmingming.com/tv/民视.png" group-title="台湾频道",民视
-https://iptv.852851.xyz/ch/3e6556a198b28fd892094854a25d53aa/master.m3u8
-#EXTINF:-1 tvg-name="尼克儿童" tvg-logo="https://live.fanmingming.com/tv/尼克儿童.png" group-title="少儿",尼克儿童
-http://220.135.64.124:5050/4gtv-live105/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="台湾戏剧" tvg-logo="https://live.fanmingming.com/tv/台湾戏剧.png" group-title="台湾频道",台湾戏剧
-http://xclasvgas.sylu.cc:8880/?token=dbm&id=litv-xinchuang22
-#EXTINF:-1 tvg-name="亚洲旅游" tvg-logo="https://live.fanmingming.com/tv/亚洲旅游.png" group-title="台湾频道",亚洲旅游
-http://xclasvgas.sylu.cc:8880/?token=dbm&id=4gtv-4gtv076
-#EXTINF:-1 tvg-name="亚洲旅游" tvg-logo="https://live.fanmingming.com/tv/亚洲旅游.png" group-title="台湾频道",亚洲旅游
-https://iptv.852851.xyz/ch/22629042ba4aeac6d099f950272b06fe/master.m3u8
-#EXTINF:-1 tvg-name="中视" tvg-logo="https://live.fanmingming.com/tv/中视.png" group-title="台湾频道",中视
-http://xclasvgas.sylu.cc:8880/?token=dbm&id=4gtv-4gtv040
-#EXTINF:-1 tvg-name="中视" tvg-logo="https://live.fanmingming.com/tv/中视.png" group-title="台湾频道",中视
-https://iptv.852851.xyz/ch/177f5903c7e4ae806ba85f66cb9a47e9/master.m3u8
+
+
+
+
+
+
 #EXTINF:-1 group-title="🔮港澳台直播" tvg-name="Astro AEC" tvg-logo="https://epg.112114.xyz/logo/Astro AEC.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Astro AEC
 https://o11.163189.xyz/stream/live/aec/
 #EXTINF:-1 group-title="🔮港澳台直播" tvg-name="Astro AOD" tvg-logo="https://epg.112114.xyz/logo/Astro AOD.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",Astro AOD
