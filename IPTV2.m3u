@@ -1151,3 +1151,13 @@ http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
 http://61.216.67.119:1935/lifetv/lifetv.stream/manifest.m3u8
 #EXTINF:-1 group-title="🔮港澳台直播" tvg-name="唯心电视" tvg-logo="https://epg.112114.xyz/logo/唯心电视.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",唯心电视
 http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/playlist.m3u8
+group-title="AV3A频道",cctv5-av3a
+http://82.156.243.185:36888/av3a/cctv5.m3u8
+#EXTINF:-1 tvg-name="cctv5p" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/cctv5p.png" group-title="AV3A频道",cctv5p-av3a
+http://82.156.243.185:36888/av3a/cctv5p.m3u8
+#EXTINF:-1 tvg-name="cctv16" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/cctv16.png" group-title="AV3A频道",cctv16-av3a
+http://82.156.243.185:36888/av3a/cctv16.m3u8
+#EXTINF:-1 tvg-name="cctv4k" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/cctv4k.png" group-title="AV3A频道",cctv4k-av3a
+http://82.156.243.185:36888/av3a/cctv4k.m3u8
+#EXTINF:-1 tvg-name="cctv8k" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/cctv8k.png" group-title="AV3A频道",cctv8k-av3a
+http://82.156.243.185:36888/av3a/cctv8k.m3u8
