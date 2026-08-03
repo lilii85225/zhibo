@@ -1,31 +1,46 @@
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视频道1080P",CCTV1
+#EXTINF:-1 tvg-name="CCTV-1综合" tvg-logo="https://live.fanmingming.com/tv/CCTV-1综合.png" group-title="央视频道1080P",CCTV-1综合
+https://live.264788.xyz/channel/cctv1?streamid=0361e56ecb002b71992e2389d940833d&livekey=01WdXxwZwlSCFbg7orsLKkCbHfil6NqjfRdDR
+#EXTINF:-1 tvg-name="CCTV-1综合" tvg-logo="https://live.fanmingming.com/tv/CCTV-1综合.png" group-title="央视频道1080P",CCTV-1综合
+https://live.264788.xyz/channel/cctv1?streamid=b3819637a4c479c8ccd4d25e42eb96ca&livekey=01WdXxwZwlSCFbg7orsLKkCbHfil6NqjfRdDR
+
+#EXTINF:-1 tvg-name="CCTV-1综合" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视频道1080P",CCTV-1综合
 https://live.264788.xyz/channel/cctv1?streamid=ae1fc95449a7d4a13c53490cbcae614f&livekey=01WdXxwZwlSCFbg7o5frIlAfU2AvrJ5L4QGfq
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视频道1080P",CCTV1
-https://live.264788.xyz/channel/cctv1?streamid=ae1fc95449a7d4a13c53490cbcae614f&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视频道1080P",CCTV1
+
+#EXTINF:-1 tvg-name="CCTV-1综合" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视频道1080P",CCTV-1综合
 https://live.264788.xyz/channel/cctv1?streamid=0361e56ecb002b71992e2389d940833d&livekey=01WdXxwZwlSCFbg7o5frIlAfU2AvrJ5L4QGfq
+#EXTINF:-1 tvg-name="CCTV-2财经" tvg-logo="https://live.fanmingming.com/tv/CCTV-2财经.png" group-title="央视频道1080P",CCTV-2财经
+https://live.264788.xyz/channel/cctv2?streamid=d1cc2ab1935ffcbb4bacddf350a1a3ba&livekey=01WdXxwZwlSCFbg7orsLKkCbHfil6NqjfRdDR
+#EXTINF:-1 tvg-name="CCTV-2财经" tvg-logo="https://live.fanmingming.com/tv/CCTV-2财经.png" group-title="央视频道1080P",CCTV-2财经
+https://live.264788.xyz/channel/cctv2?streamid=119eded5fa72df990c4a2eb3b45ffe21&livekey=01WdXxwZwlSCFbg7orsLKkCbHfil6NqjfRdDR
+#EXTINF:-1 tvg-name="CCTV-2财经" tvg-logo="https://live.fanmingming.com/tv/CCTV-2财经.png" group-title="央视频道1080P",CCTV-2财经
+https://live.264788.xyz/channel/cctv2?streamid=9d3681a7c74fcc88af7a6e9c998f37a0&livekey=01WdXxwZwlSCFbg7orsLKkCbHfil6NqjfRdDR
+#EXTINF:-1 tvg-name="CCTV-2财经" tvg-logo="https://live.fanmingming.com/tv/CCTV-2财经.png" group-title="央视频道1080P",CCTV-2财经
+https://live.264788.xyz/channel/cctv2?streamid=f3dda6ea205b8de722bbab201bd0bc9b&livekey=01WdXxwZwlSCFbg7orsLKkCbHfil6NqjfRdDR
+#EXTINF:-1 tvg-name="CCTV-2财经" tvg-logo="https://live.fanmingming.com/tv/CCTV-2财经.png" group-title="央视频道1080P",CCTV-2财经
+https://live.264788.xyz/channel/cctv2?streamid=723ba4b322fd8ec423d8f247a6dbe636&livekey=01WdXxwZwlSCFbg7orsLKkCbHfil6NqjfRdDR
 
 
-
-#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视频道1080P",CCTV2
+#EXTINF:-1 tvg-name="CCTV-2财经" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视频道1080P",CCTV-2财经
 https://live.264788.xyz/channel/cctv2?streamid=9d3681a7c74fcc88af7a6e9c998f37a0&livekey=01WdXxwZwlSCFbg7o5frIlAfU2AvrJ5L4QGfq
-#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视频道1080P",CCTV2
+#EXTINF:-1 tvg-name="CCTV-2财经" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视频道1080P",CCTV-2财经
 https://live.264788.xyz/channel/cctv2?streamid=f3dda6ea205b8de722bbab201bd0bc9b&livekey=01WdXxwZwlSCFbg7o5frIlAfU2AvrJ5L4QGfq
-#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视频道1080P",CCTV2
-https://live.264788.xyz/channel/cctv2?streamid=9d3681a7c74fcc88af7a6e9c998f37a0&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-
-#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视频道1080P",CCTV2
-https://live.264788.xyz/channel/cctv2?streamid=f3dda6ea205b8de722bbab201bd0bc9b&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视频道1080P",CCTV2
-https://live.264788.xyz/channel/cctv2?streamid=9d3681a7c74fcc88af7a6e9c998f37a0&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="央视频道1080P",CCTV3
+#EXTINF:-1 tvg-name="CCTV-3综艺" tvg-logo="https://live.fanmingming.com/tv/CCTV-3综艺.png" group-title="央视频道1080P",CCTV-3综艺
+https://live.264788.xyz/channel/cctv3?streamid=d6096ad52726df89fa7bb40676ef00ee&livekey=01WdXxwZwlSCFbg7orsLKkCbHfil6NqjfRdDR
+#EXTINF:-1 tvg-name="CCTV-3综艺" tvg-logo="https://live.fanmingming.com/tv/CCTV-3综艺.png" group-title="央视频道1080P",CCTV-3综艺
+https://live.264788.xyz/channel/cctv3?streamid=799605abfd0421def8404c885d3299ac&livekey=01WdXxwZwlSCFbg7orsLKkCbHfil6NqjfRdDR
+#EXTINF:-1 tvg-name="CCTV-3综艺" tvg-logo="https://live.fanmingming.com/tv/CCTV-3综艺.png" group-title="央视频道1080P",CCTV-3综艺
+https://live.264788.xyz/channel/cctv3?streamid=bf8db09e1cc53a2b7ab59e4f4ed11a20&livekey=01WdXxwZwlSCFbg7orsLKkCbHfil6NqjfRdDR
+#EXTINF:-1 tvg-name="CCTV-3综艺" tvg-logo="https://live.fanmingming.com/tv/CCTV-3综艺.png" group-title="央视频道1080P",CCTV-3综艺
+https://live.264788.xyz/channel/cctv3?streamid=7cf5005abb2cf8ff19569c4e23a386da&livekey=01WdXxwZwlSCFbg7orsLKkCbHfil6NqjfRdDR
+#EXTINF:-1 tvg-name="CCTV-3综艺" tvg-logo="https://live.fanmingming.com/tv/CCTV-3综艺.png" group-title="央视频道1080P",CCTV-3综艺
+https://live.264788.xyz/channel/cctv3?streamid=b56bf50c19821aafefca9f20761908e2&livekey=01WdXxwZwlSCFbg7orsLKkCbHfil6NqjfRdDR
+#EXTINF:-1 tvg-name="CCTV-3综艺" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="央视频道1080P",CCTV3
 https://live.264788.xyz/channel/cctv3?streamid=bf8db09e1cc53a2b7ab59e4f4ed11a20&livekey=01WdXxwZwlSCFbg7o5frIlAfU2AvrJ5L4QGfq
-#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="央视频道1080P",CCTV3
+#EXTINF:-1 tvg-name="CCTV-3综艺" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="央视频道1080P",CCTV3
 https://live.264788.xyz/channel/cctv3?streamid=7cf5005abb2cf8ff19569c4e23a386da&livekey=01WdXxwZwlSCFbg7o5frIlAfU2AvrJ5L4QGfq
-#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="央视频道1080P",CCTV3
+#EXTINF:-1 tvg-name="CCTV-3综艺" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="央视频道1080P",CCTV3
 https://live.264788.xyz/channel/cctv3?streamid=bf8db09e1cc53a2b7ab59e4f4ed11a20&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="央视频道1080P",CCTV3
-https://live.264788.xyz/channel/cctv3?streamid=7cf5005abb2cf8ff19569c4e23a386da&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+
 
 
 
@@ -39,125 +54,14 @@ https://live.264788.xyz/channel/cctv4?streamid=d9c90dcbb55c328cbe6415daad8f9b79&
 
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视频道1080P",CCTV5
 https://live.264788.xyz/channel/cctv5?streamid=188da934b8ba25977f0ac6a59478a16b&livekey=01WdXxwZwlSCFbg7o5frIlAfU2AvrJ5L4QGfq
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视频道1080P",CCTV5
-http://82.156.243.185:36888/av3a/cctv5n.m3u8
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视频道1080P",CCTV5
-https://live.264788.xyz/channel/cctv5?streamid=188da934b8ba25977f0ac6a59478a16b&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-
-#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="央视频道1080P",CCTV5+
-https://live.264788.xyz/channel/cctv5p?streamid=98657a78f17179c4239d0009df18455c&livekey=01WdXxwZwlSCFbg7o5frIlAfU2AvrJ5L4QGfq
-#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="央视频道1080P",CCTV5+
-http://82.156.243.185:36888/av3a/cctv5pn.m3u8
-#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="央视频道1080P",CCTV5+
-https://live.264788.xyz/channel/cctv5p?streamid=98657a78f17179c4239d0009df18455c&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="央视频道1080P",CCTV5+
-https://live.264788.xyz/channel/cctv5p?streamid=b6e4f70849be6fef32dc1c569e8a5254&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="央视频道1080P",CCTV6
-https://live.264788.xyz/channel/cctv6?streamid=c604d1dc88387983185d3a508d55f87f&livekey=01WdXxwZwlSCFbg7o5frIlAfU2AvrJ5L4QGfq
-#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="央视频道1080P",CCTV6
-https://live.264788.xyz/channel/cctv6?streamid=c604d1dc88387983185d3a508d55f87f&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-
-#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="央视频道1080P",CCTV7
-https://live.264788.xyz/channel/cctv7?streamid=2816a855aa82363e0025b440f8f75c14&livekey=01WdXxwZwlSCFbg7o5frIlAfU2AvrJ5L4QGfq
-#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="央视频道1080P",CCTV7
-https://live.264788.xyz/channel/cctv7?streamid=0153a69238ce5820014fb09aec713799&livekey=01WdXxwZwlSCFbg7o5frIlAfU2AvrJ5L4QGfq
-#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="央视频道1080P",CCTV7
-https://live.264788.xyz/channel/cctv7?streamid=2816a855aa82363e0025b440f8f75c14&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="央视频道1080P",CCTV7
-https://live.264788.xyz/channel/cctv7?streamid=b2afe5077dfacc2dc295b163201d9f8b&livekey=01WdXxwZwlSCFbg7o5frIlAfU2AvrJ5L4QGfq
-
-#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="央视频道1080P",CCTV8
-https://live.264788.xyz/channel/cctv8?streamid=6a85d271479df7e4105c8edd745b4625&livekey=01WdXxwZwlSCFbg7o5frIlAfU2AvrJ5L4QGfq
-
-#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="央视频道1080P",CCTV8
-https://live.264788.xyz/channel/cctv8?streamid=6a85d271479df7e4105c8edd745b4625&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-
-#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="央视频道1080P",CCTV9
-https://live.264788.xyz/channel/cctv9?streamid=25c0a56523dc33289ca79cb0ce6876f5&livekey=01WdXxwZwlSCFbg7o5frIlAfU2AvrJ5L4QGfq
-#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="央视频道1080P",CCTV9
-https://live.264788.xyz/channel/cctv9?streamid=70dd04a67e51ded5d77c9d1eda015e64&livekey=01WdXxwZwlSCFbg7o5frIlAfU2AvrJ5L4QGfq
-
-#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="央视频道1080P",CCTV9
-https://live.264788.xyz/channel/cctv9?streamid=25c0a56523dc33289ca79cb0ce6876f5&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="央视频道1080P",CCTV9
-https://live.264788.xyz/channel/cctv9?streamid=70dd04a67e51ded5d77c9d1eda015e64&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-
-#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="央视频道1080P",CCTV9
-https://live.264788.xyz/channel/cctv9?streamid=556ccb45c4511efcbc1ed351b4b5651a&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="央视频道1080P",CCTV9
-https://live.264788.xyz/channel/cctv9?streamid=965471f22871b869185fa44895550cf6&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-
-#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" group-title="央视频道1080P",CCTV10
-https://live.264788.xyz/channel/cctv10?streamid=53ba5973e313102776c533632a495108&livekey=01WdXxwZwlSCFbg7o5frIlAfU2AvrJ5L4QGfq
-#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" group-title="央视频道1080P",CCTV10
-https://live.264788.xyz/channel/cctv10?streamid=53ba5973e313102776c533632a495108&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" group-title="央视频道1080P",CCTV10
-https://live.264788.xyz/channel/cctv10?streamid=802331ccd41b8d8283234e98b55fe720&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" group-title="央视频道1080P",CCTV10
-https://live.264788.xyz/channel/cctv10?streamid=a6610f7c03ec538e4603bb827ecc5fad&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-
-#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" group-title="央视频道1080P",CCTV10
-https://live.264788.xyz/channel/cctv10?streamid=a6610f7c03ec538e4603bb827ecc5fad&livekey=01WdXxwZwlSCFbg7o5frIlAfU2AvrJ5L4QGfq
-#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="央视频道1080P",CCTV11
-https://live.264788.xyz/channel/cctv11?streamid=7b9945eb3e3a3628d7a273fff55b8d1e&livekey=01WdXxwZwlSCFbg7o5frIlAfU2AvrJ5L4QGfq
-#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="央视频道1080P",CCTV11
-https://live.264788.xyz/channel/cctv11?streamid=7b9945eb3e3a3628d7a273fff55b8d1e&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-
-#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="央视频道1080P",CCTV12
-https://live.264788.xyz/channel/cctv12?streamid=0f34c587b2bea8f82b43463faa4b5708&livekey=01WdXxwZwlSCFbg7o5frIlAfU2AvrJ5L4QGfq
-#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="央视频道1080P",CCTV12
-https://live.264788.xyz/channel/cctv12?streamid=494659294b7e1f18b61fe6cf51c66d5d&livekey=01WdXxwZwlSCFbg7o5frIlAfU2AvrJ5L4QGfq
-#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="央视频道1080P",CCTV12
-https://live.264788.xyz/channel/cctv12?streamid=0f34c587b2bea8f82b43463faa4b5708&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="央视频道1080P",CCTV12
-https://live.264788.xyz/channel/cctv12?streamid=494659294b7e1f18b61fe6cf51c66d5d&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-
-#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="央视频道1080P",CCTV13
-https://live.264788.xyz/channel/cctv13?streamid=18337d7a8a925fefa6736f2af5f779a5&livekey=01WdXxwZwlSCFbg7o5frIlAfU2AvrJ5L4QGfq
-#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="央视频道1080P",CCTV13
-https://live.264788.xyz/channel/cctv13?streamid=625d6041e8ff594aef93d7ee5d8a98f3&livekey=01WdXxwZwlSCFbg7o5frIlAfU2AvrJ5L4QGfq
-#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="央视频道1080P",CCTV13
-https://live.264788.xyz/channel/cctv13?streamid=18337d7a8a925fefa6736f2af5f779a5&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-
-#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="央视频道1080P",CCTV13
-https://live.264788.xyz/channel/cctv13?streamid=625d6041e8ff594aef93d7ee5d8a98f3&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="央视频道1080P",CCTV14
-https://live.264788.xyz/channel/cctv14?streamid=c1b1baab75f3bdd8eece6892ec6b0c8b&livekey=01WdXxwZwlSCFbg7o5frIlAfU2AvrJ5L4QGfq
 
 
-#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="央视频道1080P",CCTV14
-https://live.264788.xyz/channel/cctv14?streamid=c1b1baab75f3bdd8eece6892ec6b0c8b&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-k
-#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="央视频道1080P",CCTV14
-https://live.264788.xyz/channel/cctv14?streamid=09d8589b06d81eb7f173cadca39fb444&livekey=01WdXxwZwlSCFbg7o5frIlAfU2AvrJ5L4QGfq
-#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="央视频道1080P",CCTV15
-https://live.264788.xyz/channel/cctv15?streamid=6cb793152bc3feaeb0d36b1f78734e29&livekey=01WdXxwZwlSCFbg7o5frIlAfU2AvrJ5L4QGfq
 
 
-#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="央视频道1080P",CCTV15
-https://live.264788.xyz/channel/cctv15?streamid=0168b85cf8f8079b99ecc4b3d00b20d2&livekey=01WdXxwZwlSCFbg7o5frIlAfU2AvrJ5L4QGfq
-#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="央视频道1080P",CCTV15
-https://live.264788.xyz/channel/cctv15?streamid=0168b85cf8f8079b99ecc4b3d00b20d2&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-
-#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="央视频道1080P",CCTV16
-https://live.264788.xyz/channel/cctv16?streamid=d8dbfb7e9b4e78fc73baf57e7b53ced6&livekey=01WdXxwZwlSCFbg7o5frIlAfU2AvrJ5L4QGfq
-#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="央视频道1080P",CCTV16
-http://82.156.243.185:36888/av3a/cctv16n.m3u8
-#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="央视频道1080P",CCTV16
-https://live.264788.xyz/channel/cctv16?streamid=d8dbfb7e9b4e78fc73baf57e7b53ced6&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="央视频道1080P",CCTV17
-https://live.264788.xyz/channel/cctv17?streamid=348c8c0c04a6d2b900e5a3bcb4af8ce1&livekey=01WdXxwZwlSCFbg7o5frIlAfU2AvrJ5L4QGfq
-#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="央视频道1080P",CCTV17
-https://live.264788.xyz/channel/cctv17?streamid=a483a16d6e66e80650def7de077b18fa&livekey=01WdXxwZwlSCFbg7o5frIlAfU2AvrJ5L4QGfq
 
 
-#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="央视频道1080P",CCTV17
-https://live.264788.xyz/channel/cctv17?streamid=348c8c0c04a6d2b900e5a3bcb4af8ce1&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="央视频道1080P",CCTV17
-https://live.264788.xyz/channel/cctv17?streamid=a483a16d6e66e80650def7de077b18fa&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 
-#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="央视频道1080P",CCTV17
-https://live.264788.xyz/channel/cctv17?streamid=faa6e8dcf39e314823d4ca46e5f4a6c8&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+
 #EXTINF:-1 tvg-name="CCTV8k" tvg-logo="https://live.fanmingming.com/tv/CCTV8k.png" group-title="央视频道1080P",CCTV8k
 http://82.156.243.185:36888/av3a/cctv8kn.m3u8
 https://live.264788.xyz/channel/cctv4k?streamid=69b8ad870d6e6b638349a2eb5d3c6e98&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
@@ -512,6 +416,13 @@ https://live.264788.xyz/channel/sanshaweishi?streamid=d0a3642d102c45219333005531
 
 #EXTINF:-1 tvg-name="三沙卫视" tvg-logo="https://live.fanmingming.com/tv/三沙卫视.png" group-title="卫视频道1080P",三沙卫视
 https://live.264788.xyz/channel/sanshaweishi?streamid=d0a3642d102c45219333005531a2fc94&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+
+#EXTINF:-1 tvg-name="CCTV-4K超高清" tvg-logo="https://live.fanmingming.com/tv/CCTV-4K超高清.png" group-title="4K节目",CCTV-4K超高清
+https://live.264788.xyz/channel/cctv4k?streamid=69b8ad870d6e6b638349a2eb5d3c6e98&livekey=01WdXxwZwlSCFbg7orsLKkCbHfil6NqjfRdDR
+#EXTINF:-1 tvg-name="CCTV-4K超高清" tvg-logo="https://live.fanmingming.com/tv/CCTV-4K超高清.png" group-title="4K节目",CCTV-4K超高清
+https://live.264788.xyz/channel/cctv4k?streamid=84c255985963e0e411a18999189b14c8&livekey=01WdXxwZwlSCFbg7orsLKkCbHfil6NqjfRdDR
+
+
 
 
 #EXTINF:-1 tvg-name="CCTV-4K超高清" tvg-logo="https://live.fanmingming.com/tv/CCTV-4K超高清.png" group-title="4K节目",CCTV-4K超高清
